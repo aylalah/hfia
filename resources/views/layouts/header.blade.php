@@ -1,17 +1,4 @@
 
-  @if (Route::has('login'))
-                <div class="top-right links">
-                    @auth
-                        <a href="{{ url('/home') }}">Home</a>
-                    @else
-                        <a href="{{ route('login') }}">Login</a>
-
-                        @if (Route::has('register'))
-                            <a href="{{ route('register') }}">Register</a>
-                        @endif
-                    @endauth
-                </div>
-            @endif
     <nav class="navbar navbar-dark ftco_navbar bg-dark ftco-navbar-light" id="ftco-navbar">
 	    <div class="container d-flex align-items-stretch">
 	    		<div class="col-3 d-flex align-items-center">
@@ -32,7 +19,7 @@
 
 
 	      <div class="collapse navbar-collapse" id="ftco-nav">
-	        <ul class="navbar-nav ml-auto">
+	        <ul class="navbar-nav ml-auto" style="font-size:16px; text-transform:uppercase;">
 	          <li class="nav-item active"><a href="{{url('/')}}" class="nav-link">Home</a></li>
 	          <li class="nav-item"><a href="{{url('about/')}}" class="nav-link">About</a></li>
 	          <li class="nav-item"><a href="{{url('ministry/')}}" class="nav-link">Ministries</a></li>

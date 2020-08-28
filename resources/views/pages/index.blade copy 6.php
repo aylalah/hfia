@@ -35,7 +35,8 @@
     		<div class="row d-flex align-items-center">
     			<div class="col-md-6 ftco-animate">
     				<h2 class="subheading"><span class="icon-calendar"></span> Upcoming Events</h2>
-    				<h2><a href="#">"Marriage freedom crusade 2020" &mdash; Pastor John Doe </a></h2>
+    				<h2><a href="#">"Global Youth Deliverance Crusade" <br/>
+    				<b>NO MORE LIMITS</b> <br/>&mdash; Pastor John Doe </a></h2>
     			</div>
     			<div class="col-md-6 pl-md-5 ftco-animate">
     				<div id="timer" class="d-flex mb-3">
@@ -44,7 +45,7 @@
 						  <div class="time pl-4" id="minutes"></div>
 						  <div class="time pl-4" id="seconds"></div>
 						</div>
-						<p><a href="#" class="btn btn-primary px-4 py-2">Join our event</a></p>
+						<p><a href="#" class="btn btn-primary px-4 py-2">View upcoming events</a></p>
     			</div>
     		</div>
     	</div>
@@ -506,28 +507,28 @@
 
 
 
-    <section class="ftco-section ftco-section-parallax bg-secondary ftco-no-pb">
-      <div class="parallax-img d-flex align-items-center">
-        <div class="container">
-          <div class="row d-flex justify-content-center">
-            <div class="col-md-7 text-center heading-section heading-section-white heading-section-no-line ftco-animate">
-              <h2>Newsletter</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
-              <div class="row d-flex justify-content-center mt-4 mb-4">
-                <div class="col-md-8">
-                  <form action="#" class="subscribe-form">
-                    <div class="form-group d-flex">
-                      <input type="text" class="form-control" placeholder="Enter email address">
-                      <input type="submit" value="Subscribe" class="submit px-3">
-                    </div>
-                  </form>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <!--<section class="ftco-section ftco-section-parallax bg-secondary ftco-no-pb">-->
+    <!--  <div class="parallax-img d-flex align-items-center">-->
+    <!--    <div class="container">-->
+    <!--      <div class="row d-flex justify-content-center">-->
+    <!--        <div class="col-md-7 text-center heading-section heading-section-white heading-section-no-line ftco-animate">-->
+    <!--          <h2>Newsletter</h2>-->
+    <!--          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>-->
+    <!--          <div class="row d-flex justify-content-center mt-4 mb-4">-->
+    <!--            <div class="col-md-8">-->
+    <!--              <form action="#" class="subscribe-form">-->
+    <!--                <div class="form-group d-flex">-->
+    <!--                  <input type="text" class="form-control" placeholder="Enter email address">-->
+    <!--                  <input type="submit" value="Subscribe" class="submit px-3">-->
+    <!--                </div>-->
+    <!--              </form>-->
+    <!--            </div>-->
+    <!--          </div>-->
+    <!--        </div>-->
+    <!--      </div>-->
+    <!--    </div>-->
+    <!--  </div>-->
+    <!--</section>-->
         
     <!-- End Main Body -->
 

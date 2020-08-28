@@ -36,39 +36,39 @@
     </section>
 
     <section class="ftco-section contact-section">
-      <div class="container">
-        <div class="row d-flex mb-5 contact-info">
+      <div class="container" style="width:100%">
+        <div class="row d-flex mb-5 contact-info" style="flex-direction:column; margin-left:200px;justify-content:center;align-items:left;">
           <div class="col-md-12 mb-4">
             <h2 class="h3">Contact Information</h2>
           </div>
           <div class="w-100"></div>
-          <div class="col-md-3">
-            <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
+          <div class="col-md-12" style="margin-left:20px">
+            <p style="color:#000; font-size:20px"><span style="color:#fd9504; font-size:30px; margin-right:10px;">Address:</span> 22/24 Salvation Road, Araromi, Oyo, Oyo State.</p>
           </div>
-          <div class="col-md-3">
-            <p><span>Phone:</span> <a href="tel://1234567920">+ 1235 2355 98</a></p>
+          <div class="col-md-12" style="margin-left:20px">
+            <p style="font-size:20px"><span style="color:#fd9504; font-size:30px; margin-right:10px;">Phone:</span> <a href="tel:08085066892">08085066892</a></p>
           </div>
-          <div class="col-md-3">
-            <p><span>Email:</span> <a href="mailto:info@yoursite.com">info@yoursite.com</a></p>
+          <div class="col-md-12" style="margin-left:20px">
+            <p style="font-size:20px"><span style="color:#fd9504; font-size:30px; margin-right:10px;">Email:</span> <a href="mailto:bishopgiftchuksn@yahoo.com">bishopgiftchuksn@yahoo.com</a></p>
           </div>
-          <div class="col-md-3">
-            <p><span>Website</span> <a href="#">yoursite.com</a></p>
+          <div class="col-md-12" style="margin-left:20px">
+            <p style="font-size:20px"><span style="color:#fd9504; font-size:30px; margin-right:10px;">Website:</span> <a href="#">yoursite.com</a></p>
           </div>
         </div>
         <div class="row block-9">
           <div class="col-lg-6 order-md-last d-flex">
             <form action="#" class="bg-light p-5 contact-form">
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Your Name">
+                <input type="text" class="form-control" placeholder="Your Name(Initials only/Optional)">
               </div>
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Your Email">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" placeholder="Subject">
+                <input type="text" class="form-control" placeholder="Prayer requests or Testimony">
               </div>
               <div class="form-group">
-                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Message"></textarea>
+                <textarea name="" id="" cols="30" rows="7" class="form-control" placeholder="Your request or testimony"></textarea>
               </div>
               <div class="form-group">
                 <input type="submit" value="Send Message" class="btn btn-primary py-3 px-5">
@@ -89,20 +89,6 @@
       <div class="parallax-img d-flex align-items-center">
         <div class="container">
           <div class="row d-flex justify-content-center">
-            <div class="col-md-7 text-center heading-section heading-section-white heading-section-no-line ftco-animate">
-              <h2>Newsletter</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
-              <div class="row d-flex justify-content-center mt-4 mb-4">
-                <div class="col-md-8">
-                  <form action="#" class="subscribe-form">
-                    <div class="form-group d-flex">
-                      <input type="text" class="form-control" placeholder="Enter email address">
-                      <input type="submit" value="Subscribe" class="submit px-3">
-                    </div>
-                  </form>
-                </div>
-              </div>
-            </div>
           </div>
         </div>
       </div>
