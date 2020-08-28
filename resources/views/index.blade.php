@@ -17,7 +17,7 @@
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-10 text-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
           	<h1 class="mb-0" style="font-size:40px">Welcome to Family of God Charismatic Ministries Worldwide (Inc.)</h1>
-          	<h3 class="subheading mb-4 pb-1">Here the Holy Spirit is real</h3>
+          	<h3 class="subheading mb-4 pb-1">Where the Holy Spirit is real</h3>
           	<p><a href="#" class="btn btn-primary py-3 px-4">New here!</a> <a href="https://solid9.streamupsolutions.com/proxy/jtwagjwn?mp=/;type=mp3"  target="_blank" class="btn btn-white py-3 px-4"><span class="icon-play-circle"></span> Live Stream</a></p>
             <div class="mouse">
 							<a href="#" class="mouse-icon">
@@ -35,7 +35,8 @@
     		<div class="row d-flex align-items-center">
     			<div class="col-md-6 ftco-animate">
     				<h2 class="subheading"><span class="icon-calendar"></span> Upcoming Events</h2>
-    				<h2><a href="#">"Marriage freedom crusade 2020" &mdash; Bishop Gift Chuks Nnaji </a></h2>
+    				<h2><a href="#">"Global Youth Deliverance Crusade" <br/>
+    				<b>NO MORE LIMITS</b> <br/>&mdash; Bishop Gift Chuks Nnaji <br/> <span style="font-size:16px; margin-left:10px">Church Cathedral</span> </a></h2>
     			</div>
     			<div class="col-md-6 pl-md-5 ftco-animate">
     				<div id="timer" class="d-flex mb-3">
@@ -44,7 +45,7 @@
 						  <div class="time pl-4" id="minutes"></div>
 						  <div class="time pl-4" id="seconds"></div>
 						</div>
-						<p><a href="#" class="btn btn-primary px-4 py-2">Join our event</a></p>
+						<p><a href="#" class="btn btn-primary px-4 py-2">View upcoming events</a></p>
     			</div>
     		</div>
     	</div>
@@ -72,49 +73,49 @@
         </div>
     		<div class="row">
     			<div class="col-lg-6">
-    				<div class="d-flex services ftco-animate text-lg-right">
+    				<div style="height:200px" class="d-flex services ftco-animate text-lg-right">
 	            <div class="icon order-lg-last d-flex align-items-center justify-content-center"><span class="flaticon-praying"></span></div>
 	            <div class="media-body pr-lg-5">
 	              <h3 class="heading mb-3">Supernatural Life Service</h3>
-	              <p style="font-size:15px">The God we serve is a supernatural being and he expects us to operate from that realm. Fellowship with us every Sunday learn more about the supernatural life of Christ.</p>
+	              <p style="font-size:">The God we serve is a supernatural being and he expects us to operate from that realm. Fellowship with us every Sunday learn more about the supernatural life of Christ. Holds every <b>Sundays</b> by <b>8:30am</b>.</p>
 	            </div>
 	          </div>
-	          <div class="d-flex services ftco-animate text-lg-right">
+	          <div style="height:200px" class="d-flex services ftco-animate text-lg-right">
 	            <div class="icon order-lg-last d-flex align-items-center justify-content-center"><span class="flaticon-church"></span></div>
 	            <div class="media-body pr-lg-5">
 	              <h3 class="heading mb-3">Hannah and Esthers</h3>
-	              <p style="font-size:13px">A multidenominational arm of women's ministry. Where the singles and expectant mothers gather to seek God's face for their specific needs. (Ask mummy for more. She's not.picking calls ore replying whatsapp).</p>
+	              <p style="font-size:">A multidenominational arm of women's ministry. Where the singles and expectant mothers gather to seek God's face for their specific needs.  Holds every <b>Tuesdays</b> by <b>6pm</b>.</p>
 	            </div>
 	          </div>
-	          <div class="d-flex services ftco-animate text-lg-right">
+	          <div style="height:200px" class="d-flex services ftco-animate text-lg-right">
 	            <div class="icon order-lg-last d-flex align-items-center justify-content-center"><span class="flaticon-bible"></span></div>
 	            <div class="media-body pr-lg-5">
-	              <h3 class="heading mb-3" style="font-size:20px">Word, Miracle and Communion Service</h3>
-	              <p>Faith comes by hearing and hearing by the word of God. Ignite your faith as you learn about and practice scriptural principles.</p>
+	              <h3 class="heading mb-3" style="font-size">Word, Miracle and Communion Service</h3>
+	              <p>Faith comes by hearing and hearing by the word of God. Ignite your faith as you learn about and practice scriptural principles.  Holds every <b>Thursdays</b> by <b>6pm</b>.</p>
 	            </div>
 	          </div>
     			</div>
 
     			<div class="col-lg-6">
-    				<div class="d-flex services ftco-animate text-lg-left">
+    				<div style="height:200px" class="d-flex services ftco-animate text-lg-left">
 	            <div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-social-care"></span></div>
 	            <div class="media-body pl-lg-5">
 	              <h3 class="heading mb-3">Family Communion</h3>
-	              <p style="font-size:16px">God operates with families because the devil fights hard to separate families. Experience family healing, revival and reunion in family communion.</p>
+	              <p style="font-size">God operates with families because the devil fights hard to separate families. Experience family healing, revival and reunion in family communion.  Holds every <b>Second Sundays</b> of every month by <b>6pm</b> in ur various homes.</p>
 	            </div>
 	          </div>
-	          <div class="d-flex services ftco-animate text-lg-left">
+	          <div style="height:200px" class="d-flex services ftco-animate text-lg-left">
 	            <div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-rings"></span></div>
 	            <div class="media-body pl-lg-5">
 	              <h3 class="heading mb-3">Atmosphere for Signs & Wonders </h3>
-	              <p style="font-size:21px">An interdenominational impartation and anointing service.</p>
+	              <p style="font-size">An interdenominational impartation and anointing service.  Holds every <b>Last Sundays</b> of every month by <b>6pm</b>.</p>
 	            </div>
 	          </div>
-	          <div class="d-flex services ftco-animate text-lg-left">
+	          <div style="height:200px" class="d-flex services ftco-animate text-lg-left">
 	            <div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-promotion"></span></div>
 	            <div class="media-body pl-lg-5">
 	              <h3 class="heading mb-3">Youth Church</h3>
-	              <p>Join the teenagers and adult youth as they pant after God. They are the God chasers. Firebrands are the adult youth on fire for God.</p>
+	              <p>Join the teenagers and adult youth as they pant after God. They are the God chasers. Firebrands are the adult youth on fire for God.  Holds on <b>Sundays</b> by <b>11:30am</b>.</p>
 	            </div>
 	          </div>
     			</div>
@@ -154,82 +155,82 @@
 
 
 
-    <section class="ftco-section bg-light">
+  <!--  <section class="ftco-section bg-light">-->
      
-        <div class="row justify-content-center mb-5 pb-3">
-          <div class="col-md-12 text-center heading-section heading-section-light ftco-animate">
-            <h2 class="mb-2"><span class="px-4">Church Gallery</span></h2>
-            <span class="subheading">Our Gallery</span>
-          </div>
-        </div>
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-12">
-						<div class="row no-gutters">
-							<div class="col-md-3 ftco-animate">
-								<a href="images/gallery/image_1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_1.jpg);">
-									<div class="icon mb-4 d-flex align-items-center justify-content-center">
-		    						<span class="icon-instagram"></span>
-		    					</div>
-								</a>
-							</div>
-							<div class="col-md-3 ftco-animate">
-								<a href="images/gallery/image_2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_2.jpg);">
-									<div class="icon mb-4 d-flex align-items-center justify-content-center">
-		    						<span class="icon-instagram"></span>
-		    					</div>
-								</a>
-							</div>
-							<div class="col-md-3 ftco-animate">
-								<a href="images/gallery/image_3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_3.jpg);">
-									<div class="icon mb-4 d-flex align-items-center justify-content-center">
-		    						<span class="icon-instagram"></span>
-		    					</div>
-								</a>
-							</div>
-							<div class="col-md-3 ftco-animate">
-								<a href="images/gallery/image_4.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_4.jpg);">
-									<div class="icon mb-4 d-flex align-items-center justify-content-center">
-		    						<span class="icon-instagram"></span>
-		    					</div>
-								</a>
-							</div>
-                            <div class="col-md-3 ftco-animate">
-								<a href="images/gallery/image_5.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_5.jpg);">
-									<div class="icon mb-4 d-flex align-items-center justify-content-center">
-		    						<span class="icon-instagram"></span>
-		    					</div>
-								</a>
-							</div>
-							<div class="col-md-3 ftco-animate">
-								<a href="images/gallery/image_6.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_6.jpg);">
-									<div class="icon mb-4 d-flex align-items-center justify-content-center">
-		    						<span class="icon-instagram"></span>
-		    					</div>
-								</a>
-							</div>
-							<div class="col-md-3 ftco-animate">
-								<a href="images/gallery/image_7.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_7.jpg);">
-									<div class="icon mb-4 d-flex align-items-center justify-content-center">
-		    						<span class="icon-instagram"></span>
-		    					</div>
-								</a>
-							</div>
-							<div class="col-md-3 ftco-animate">
-								<a href="images/gallery/image_8.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_8.jpg);">
-									<div class="icon mb-4 d-flex align-items-center justify-content-center">
-		    						<span class="icon-instagram"></span>
-		    					</div>
-								</a>
-							</div>
-						</div>
-					</div>
+  <!--      <div class="row justify-content-center mb-5 pb-3">-->
+  <!--        <div class="col-md-12 text-center heading-section heading-section-light ftco-animate">-->
+  <!--          <h2 class="mb-2"><span class="px-4">Church Gallery</span></h2>-->
+  <!--          <span class="subheading">Our Gallery</span>-->
+  <!--        </div>-->
+  <!--      </div>-->
+		<!--	<div class="container">-->
+		<!--		<div class="row">-->
+		<!--			<div class="col-lg-12">-->
+		<!--				<div class="row no-gutters">-->
+		<!--					<div class="col-md-3 ftco-animate">-->
+		<!--						<a href="images/gallery/image_1.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_1.jpg);">-->
+		<!--							<div class="icon mb-4 d-flex align-items-center justify-content-center">-->
+		<!--    						<span class="icon-instagram"></span>-->
+		<!--    					</div>-->
+		<!--						</a>-->
+		<!--					</div>-->
+		<!--					<div class="col-md-3 ftco-animate">-->
+		<!--						<a href="images/gallery/image_2.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_2.jpg);">-->
+		<!--							<div class="icon mb-4 d-flex align-items-center justify-content-center">-->
+		<!--    						<span class="icon-instagram"></span>-->
+		<!--    					</div>-->
+		<!--						</a>-->
+		<!--					</div>-->
+		<!--					<div class="col-md-3 ftco-animate">-->
+		<!--						<a href="images/gallery/image_3.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_3.jpg);">-->
+		<!--							<div class="icon mb-4 d-flex align-items-center justify-content-center">-->
+		<!--    						<span class="icon-instagram"></span>-->
+		<!--    					</div>-->
+		<!--						</a>-->
+		<!--					</div>-->
+		<!--					<div class="col-md-3 ftco-animate">-->
+		<!--						<a href="images/gallery/image_4.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_4.jpg);">-->
+		<!--							<div class="icon mb-4 d-flex align-items-center justify-content-center">-->
+		<!--    						<span class="icon-instagram"></span>-->
+		<!--    					</div>-->
+		<!--						</a>-->
+		<!--					</div>-->
+  <!--                          <div class="col-md-3 ftco-animate">-->
+		<!--						<a href="images/gallery/image_5.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_5.jpg);">-->
+		<!--							<div class="icon mb-4 d-flex align-items-center justify-content-center">-->
+		<!--    						<span class="icon-instagram"></span>-->
+		<!--    					</div>-->
+		<!--						</a>-->
+		<!--					</div>-->
+		<!--					<div class="col-md-3 ftco-animate">-->
+		<!--						<a href="images/gallery/image_6.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_6.jpg);">-->
+		<!--							<div class="icon mb-4 d-flex align-items-center justify-content-center">-->
+		<!--    						<span class="icon-instagram"></span>-->
+		<!--    					</div>-->
+		<!--						</a>-->
+		<!--					</div>-->
+		<!--					<div class="col-md-3 ftco-animate">-->
+		<!--						<a href="images/gallery/image_7.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_7.jpg);">-->
+		<!--							<div class="icon mb-4 d-flex align-items-center justify-content-center">-->
+		<!--    						<span class="icon-instagram"></span>-->
+		<!--    					</div>-->
+		<!--						</a>-->
+		<!--					</div>-->
+		<!--					<div class="col-md-3 ftco-animate">-->
+		<!--						<a href="images/gallery/image_8.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/gallery/image_8.jpg);">-->
+		<!--							<div class="icon mb-4 d-flex align-items-center justify-content-center">-->
+		<!--    						<span class="icon-instagram"></span>-->
+		<!--    					</div>-->
+		<!--						</a>-->
+		<!--					</div>-->
+		<!--				</div>-->
+		<!--			</div>-->
 					<!-- <div class="col-lg-6 d-flex align-items-stretch">
-						<div id="map"></div>
-					</div> -->
-				</div>
-			</div>
-		</section>
+		<!--				<div id="map"></div>-->
+		<!--			</div> -->-->
+		<!--		</div>-->
+		<!--	</div>-->
+		<!--</section>-->
 
 
     <section class="ftco-section testimony-section" style="background-image: url(images/bg_3.jpg);">
@@ -251,23 +252,21 @@
                     </span>
                   </div>
                   <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <h2 class="name">Bishop Gift Chuks Nnaji</h2>
+                        <h2 class="name" style="font-size:25px;">Bishop Gift Chuks Nnaji</h2>
                     <span class="position">Presiding Bishop</span>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="testimony-wrap text-center py-4 pb-5">
-                  <div class="user-img mb-4" style="width:30%;background-image: url(images/bg_5.jpg)">
+                  <div class="user-img mb-4" style="width:30%;background-image: url(images/logo2.png)">
                     <span class="quote d-flex align-items-center justify-content-center">
                       <i class="icon-quote-left"></i>
                     </span>
                   </div>
                   <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <h3 class="name">Rev Mrs Glory Nnaji</h3>
-                    <span class="position">Member</span>
+                      <h3 class="name" style="font-size:25px;">Rev Mrs Glory Nnaji</h3>
+                    <span class="position">Vice-President</span>
                   </div>
                 </div>
               </div>
@@ -279,9 +278,8 @@
                     </span>
                   </div>
                   <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Arthur Browner3</p>
-                    <span class="position">Member</span>
+                      <p class="name" style="font-size:25px;">Rev. James Emmanuel</p>
+                    <span class="position">Administrator</span>
                   </div>
                 </div>
               </div>
@@ -293,23 +291,8 @@
                     </span>
                   </div>
                   <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Arthur Browner</p>
-                    <span class="position">Member</span>
-                  </div>
-                </div>
-              </div>
-              <div class="item">
-                <div class="testimony-wrap text-center py-4 pb-5">
-                  <div class="user-img mb-4" style="width:30%;background-image: url(images/logo2.png)">
-                    <span class="quote d-flex align-items-center justify-content-center">
-                      <i class="icon-quote-left"></i>
-                    </span>
-                  </div>
-                  <div class="text p-3">
-                    <p class="mb-4">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Arthur Browner</p>
-                    <span class="position">Member</span>
+                    <p class="name" style="font-size:25px;">Rev. Bola Olufayo</p>
+                    <span class="position">Church Affairs</span>
                   </div>
                 </div>
               </div>
@@ -467,28 +450,28 @@
       </div>
     </section> -->
 
-    <section class="ftco-section ftco-section-parallax bg-secondary ftco-no-pb">
-      <div class="parallax-img d-flex align-items-center">
-        <div class="container">
-          <div class="row d-flex justify-content-center">
-            <div class="col-md-7 text-center heading-section heading-section-white heading-section-no-line ftco-animate">
-              <h2>Newsletter</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
-              <div class="row d-flex justify-content-center mt-4 mb-4">
-                <div class="col-md-8">
-                  <form action="#" class="subscribe-form">
-                    <div class="form-group d-flex">
-                      <input type="text" class="form-control" placeholder="Enter email address">
-                      <input type="submit" value="Subscribe" class="submit px-3">
-                    </div>
-                  </form>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <!--<section class="ftco-section ftco-section-parallax bg-secondary ftco-no-pb">-->
+    <!--  <div class="parallax-img d-flex align-items-center">-->
+    <!--    <div class="container">-->
+    <!--      <div class="row d-flex justify-content-center">-->
+    <!--        <div class="col-md-7 text-center heading-section heading-section-white heading-section-no-line ftco-animate">-->
+    <!--          <h2>Newsletter</h2>-->
+    <!--          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>-->
+    <!--          <div class="row d-flex justify-content-center mt-4 mb-4">-->
+    <!--            <div class="col-md-8">-->
+    <!--              <form action="#" class="subscribe-form">-->
+    <!--                <div class="form-group d-flex">-->
+    <!--                  <input type="text" class="form-control" placeholder="Enter email address">-->
+    <!--                  <input type="submit" value="Subscribe" class="submit px-3">-->
+    <!--                </div>-->
+    <!--              </form>-->
+    <!--            </div>-->
+    <!--          </div>-->
+    <!--        </div>-->
+    <!--      </div>-->
+    <!--    </div>-->
+    <!--  </div>-->
+    <!--</section>-->
         
     <!-- End Main Body -->
 

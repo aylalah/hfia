@@ -43,7 +43,6 @@
 	          	</div>
 	          </div>
 	          <div class="event-wrap d-md-flex ftco-animate">
-	          	<div class="img"style="background-image: url(images/event-2.jpg);"></div>
 	          	<div class="text pl-md-5">
 	          		<h2 class="mb-3"><a href="sermons.html">Know Jesus Christ Better Through Lines</a></h2>
 	          		<div class="meta">
@@ -55,6 +54,7 @@
 		  					</div>
 		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
 	          	</div>
+	          	<div class="img"style="background-image: url(images/event-2.jpg);"></div>
 	          </div>
 
 	          <div class="event-wrap d-md-flex ftco-animate">
@@ -73,7 +73,7 @@
 	          </div>
 
 	          <div class="event-wrap d-md-flex ftco-animate">
-	          	<div class="img"style="background-image: url(images/event-4.jpg);"></div>
+	          	
 	          	<div class="text pl-md-5">
 	          		<h2 class="mb-3"><a href="sermons.html">Know Jesus Christ Better Through Lines</a></h2>
 	          		<div class="meta">
@@ -85,6 +85,7 @@
 		  					</div>
 		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
 	          	</div>
+	          	<div class="img"style="background-image: url(images/event-4.jpg);"></div>
 	          </div>
 
 	          <div class="event-wrap d-md-flex ftco-animate">
@@ -103,7 +104,7 @@
 	          </div>
 
 	          <div class="event-wrap d-md-flex ftco-animate">
-	          	<div class="img"style="background-image: url(images/event-6.jpg);"></div>
+	          	
 	          	<div class="text pl-md-5">
 	          		<h2 class="mb-3"><a href="sermons.html">Know Jesus Christ Better Through Lines</a></h2>
 	          		<div class="meta">
@@ -115,29 +116,30 @@
 		  					</div>
 		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
 	          	</div>
+	          	<div class="img"style="background-image: url(images/event-6.jpg);"></div>
 	          </div>
 
           </div> <!-- .col-md-8 -->
-          <div class="col-lg-4 sidebar ftco-animate">
-            <div class="sidebar-box">
-              <form action="#" class="search-form">
-                <div class="form-group">
-                  <span class="icon icon-search"></span>
-                  <input type="text" class="form-control" placeholder="Type a keyword and hit enter">
-                </div>
-              </form>
-            </div>
-            <div class="sidebar-box ftco-animate">
-              <div class="categories">
-                <h3>Categories</h3>
-                <li><a href="#">Church <span class="ion-ios-arrow-forward"></span></a></li>
-                <li><a href="#">Counseling <span class="ion-ios-arrow-forward"></span></a></li>
-                <li><a href="#">Wedding <span class="ion-ios-arrow-forward"></span></a></li>
-                <li><a href="#">Fellowship <span class="ion-ios-arrow-forward"></span></a></li>
-                <li><a href="#">Beliefs <span class="ion-ios-arrow-forward"></span></a></li>
-                <li><a href="#">Bible Study <span class="ion-ios-arrow-forward"></span></a></li>
-              </div>
-            </div>
+          <!--<div class="col-lg-4 sidebar ftco-animate">-->
+          <!--  <div class="sidebar-box">-->
+          <!--    <form action="#" class="search-form">-->
+          <!--      <div class="form-group">-->
+          <!--        <span class="icon icon-search"></span>-->
+          <!--        <input type="text" class="form-control" placeholder="Type a keyword and hit enter">-->
+          <!--      </div>-->
+          <!--    </form>-->
+          <!--  </div>-->
+          <!--  <div class="sidebar-box ftco-animate">-->
+          <!--    <div class="categories">-->
+          <!--      <h3>Categories</h3>-->
+          <!--      <li><a href="#">Church <span class="ion-ios-arrow-forward"></span></a></li>-->
+          <!--      <li><a href="#">Counseling <span class="ion-ios-arrow-forward"></span></a></li>-->
+          <!--      <li><a href="#">Wedding <span class="ion-ios-arrow-forward"></span></a></li>-->
+          <!--      <li><a href="#">Fellowship <span class="ion-ios-arrow-forward"></span></a></li>-->
+          <!--      <li><a href="#">Beliefs <span class="ion-ios-arrow-forward"></span></a></li>-->
+          <!--      <li><a href="#">Bible Study <span class="ion-ios-arrow-forward"></span></a></li>-->
+          <!--    </div>-->
+          <!--  </div>-->
 
             <div class="sidebar-box ftco-animate">
               <h3>Recent Blog</h3>
@@ -176,24 +178,24 @@
               </div>
             </div>
 
-            <div class="sidebar-box ftco-animate">
-              <h3>Tag Cloud</h3>
-              <div class="tagcloud">
-                <a href="#" class="tag-cloud-link">dish</a>
-                <a href="#" class="tag-cloud-link">menu</a>
-                <a href="#" class="tag-cloud-link">food</a>
-                <a href="#" class="tag-cloud-link">sweet</a>
-                <a href="#" class="tag-cloud-link">tasty</a>
-                <a href="#" class="tag-cloud-link">delicious</a>
-                <a href="#" class="tag-cloud-link">desserts</a>
-                <a href="#" class="tag-cloud-link">drinks</a>
-              </div>
-            </div>
+            <!--<div class="sidebar-box ftco-animate">-->
+            <!--  <h3>Tag Cloud</h3>-->
+            <!--  <div class="tagcloud">-->
+            <!--    <a href="#" class="tag-cloud-link">dish</a>-->
+            <!--    <a href="#" class="tag-cloud-link">menu</a>-->
+            <!--    <a href="#" class="tag-cloud-link">food</a>-->
+            <!--    <a href="#" class="tag-cloud-link">sweet</a>-->
+            <!--    <a href="#" class="tag-cloud-link">tasty</a>-->
+            <!--    <a href="#" class="tag-cloud-link">delicious</a>-->
+            <!--    <a href="#" class="tag-cloud-link">desserts</a>-->
+            <!--    <a href="#" class="tag-cloud-link">drinks</a>-->
+            <!--  </div>-->
+            <!--</div>-->
 
-            <div class="sidebar-box ftco-animate">
-              <h3>Paragraph</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!</p>
-            </div>
+            <!--<div class="sidebar-box ftco-animate">-->
+            <!--  <h3>Paragraph</h3>-->
+            <!--  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!</p>-->
+            <!--</div>-->
           </div>
 
         </div>
@@ -201,28 +203,28 @@
     </section> <!-- .section -->
 
 
-    <section class="ftco-section ftco-section-parallax bg-secondary ftco-no-pb">
-      <div class="parallax-img d-flex align-items-center">
-        <div class="container">
-          <div class="row d-flex justify-content-center">
-            <div class="col-md-7 text-center heading-section heading-section-white heading-section-no-line ftco-animate">
-              <h2>Newsletter</h2>
-              <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>
-              <div class="row d-flex justify-content-center mt-4 mb-4">
-                <div class="col-md-8">
-                  <form action="#" class="subscribe-form">
-                    <div class="form-group d-flex">
-                      <input type="text" class="form-control" placeholder="Enter email address">
-                      <input type="submit" value="Subscribe" class="submit px-3">
-                    </div>
-                  </form>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+    <!--<section class="ftco-section ftco-section-parallax bg-secondary ftco-no-pb">-->
+    <!--  <div class="parallax-img d-flex align-items-center">-->
+    <!--    <div class="container">-->
+    <!--      <div class="row d-flex justify-content-center">-->
+    <!--        <div class="col-md-7 text-center heading-section heading-section-white heading-section-no-line ftco-animate">-->
+    <!--          <h2>Newsletter</h2>-->
+    <!--          <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in</p>-->
+    <!--          <div class="row d-flex justify-content-center mt-4 mb-4">-->
+    <!--            <div class="col-md-8">-->
+    <!--              <form action="#" class="subscribe-form">-->
+    <!--                <div class="form-group d-flex">-->
+    <!--                  <input type="text" class="form-control" placeholder="Enter email address">-->
+    <!--                  <input type="submit" value="Subscribe" class="submit px-3">-->
+    <!--                </div>-->
+    <!--              </form>-->
+    <!--            </div>-->
+    <!--          </div>-->
+    <!--        </div>-->
+    <!--      </div>-->
+    <!--    </div>-->
+    <!--  </div>-->
+    <!--</section>-->
         
     <!-- End Main Body -->
 

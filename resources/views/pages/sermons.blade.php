@@ -33,20 +33,20 @@
         </div>
     		<div class="row d-flex sermon-wrap">
   				<div class="col-md-6 d-flex align-items-stretch ftco-animate">
-  					<div class="img" style="background-image: url(images/sermon-1.jpg);"></div>
+  					<div class="img" style="background-image: url(images/gallery/image_1.jpg);"></div>
   				</div>
   				<div class="col-md-6 py-4 text ftco-animate">
-  					<h2 class="mb-4"><a href="sermon.html">Lord is Sufficient for all of our needs</a></h2>
+  					<h2 class="mb-4"><a href="sermon.html">Wisdom for Sweatless Victories</a></h2>
   					<div class="meta">
   						<p>
-	  						<span>Sermon from: <a href="#" class="ptr">Felix Gonner</a></span>
-	  						<span>Categories: <a href="#">God</a>, <a href="#">Pray</a></span>
-	  						<span><a href="#">On Sunday 13 Jan, 2019</a></span>
+	  						<span>Sermon from: <a href="#" class="ptr">Bishop Gift Chuks Nnaji</a></span>
+	  						<span>Categories: <a href="#">Teaching</a>, <a href="#">Pray</a></span>
+	  						<span><a href="#">On Sunday 16 Aug, 2020</a></span>
   						</p>
   					</div>
-						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
+						<p>Wisdom is doing right what right thing you know to do at the right time. (Eccl 9:13-17, James 3:13, Eccl 2:12-13). No challenge remains the same being left alone. God</p>
 						<p class="mt-4 btn-customize">
-							<a href="https://vimeo.com/45830194" class="btn btn-primary px-4 py-3 mr-md-2 popup-vimeo"><span class="icon-play"></span> Watch Sermons</a> <a href="#" class="btn btn-black px-4 py-3 ml-lg-2"><span class="icon-download"></span> Download Sermons</a>
+							<a href="https://vimeo.com/45830194" class="btn btn-primary px-4 py-3 mr-md-2 popup-vimeo"><span class="icon-play"></span> Watch Sermons</a> <a href="http://testenv.fgcmw.org/doc/first.docx" class="btn btn-black px-4 py-3 ml-lg-2"><span class="icon-download"></span> Download Sermons</a>
 						</p>
   				</div>
     		</div>
