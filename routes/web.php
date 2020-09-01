@@ -45,6 +45,9 @@ Route::get('/blog_details', function () {
     return view('pages.blog_detail');
 });
 
+Route::get('/shop', function () {
+    return view('pages.shop');
+});
 
 Auth::routes();
 

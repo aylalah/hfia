@@ -36,3 +36,46 @@
         <link rel="stylesheet" href="css/flaticon.css">
         <link rel="stylesheet" href="css/icomoon.css">
         <link rel="stylesheet" href="css/style.css">
+
+        <style>
+        @media only screen and (max-width:340px){
+                #button{
+                        width:120px;
+                }
+        }
+        @media only screen and (max-width:800px){
+                #up{
+                        width:100%
+                }
+                #up2{
+                        display:none;
+                }
+        }
+        @media only screen and (max-width:451px){
+                #service{
+                        display:flex;
+                        justify-content:center;
+                        flex-direction:column;
+                        align-items:center;
+                }
+                #icon{
+                        display:none;
+                }
+        }
+        @media only screen and (min-width: 1024px) {
+                #min{
+                        margin-left:280px;
+                }
+                #img{
+                        display:flex;
+                        justify-content:center;
+                        align-items:center;
+                }
+        }
+        @media only screen and (min-width: 768px) and (max-width: 1000px){
+                #min{
+                        margin-left:170px;
+                }
+        }
+
+</style>
