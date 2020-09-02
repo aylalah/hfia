@@ -26,8 +26,8 @@
 	          <li class="nav-item"><a href="{{url('sermons/')}}" class="nav-link">Sermons</a></li>
 	          <li class="nav-item"><a href="{{url('events/')}}" class="nav-link">Upcoming Events</a></li>
 	          <li class="nav-item"><a href="{{url('blog/')}}" class="nav-link">Blog</a></li>
-	          <li class="nav-item"><a href="{{url('contact/')}}" class="nav-link">Contact</a></li>
 	          <li class="nav-item"><a href="{{url('shop/')}}" class="nav-link">Shop</a></li>
+	          <li class="nav-item"><a href="{{url('contact/')}}" class="nav-link">Contact</a></li>
 	        </ul>
 	      </div>
 	    </div>

@@ -196,7 +196,7 @@
     </section>
 
 
-    <section class="ftco-section ftco-section-parallax bg-secondary ftco-no-pb">
+    <!-- <section class="ftco-section ftco-section-parallax bg-secondary ftco-no-pb">
       <div class="parallax-img d-flex align-items-center">
         <div class="container">
           <div class="row d-flex justify-content-center">
@@ -217,7 +217,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- End Main Body -->
 

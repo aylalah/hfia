@@ -52,11 +52,11 @@
             <p style="font-size:20px"><span style="color:#fd9504; font-size:30px; margin-right:10px;">Email:</span> <a href="mailto:bishopgiftchuksn@yahoo.com">bishopgiftchuksn@yahoo.com</a></p>
           </div>
           <div class="col-md-12" style="margin-left:20px">
-            <p style="font-size:20px"><span style="color:#fd9504; font-size:30px; margin-right:10px;">Website:</span> <a href="#">yoursite.com</a></p>
+            <p style="font-size:20px"><span style="color:#fd9504; font-size:30px; margin-right:10px;">Website:</span> <a href="{{url('/')}}">fgcmw.org</a></p>
           </div>
         </div>
         <div class="row block-9">
-          <div class="col-lg-6 order-md-last d-flex">
+          <div class="col-lg-6 order-md-last d-flex" id="form">
             <form action="#" class="bg-light p-5 contact-form">
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Your Name(Initials only/Optional)">

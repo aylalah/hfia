@@ -25,17 +25,17 @@
 
 
 
-    <h3 class="m-5 text-center" id="hfia"><i>COMING SOON...</i></h3>
+    <!-- <h3 class="m-5 text-center" id="hfia"><i>COMING SOON...</i></h3> -->
 
 
 						<!-- <p>Harvest Fire International Assembly is a flourishing church in Nigeria with headquaters in Oyo, Oyo state of Nigeria, having branches in Nigeria. </p> -->
 
-    <!-- <section class="ftco-section bg-light">
+     <section class="ftco-section bg-light">
       <div class="container">
         <div class="row d-flex">
           <div class="col-lg-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/book.jpg');">
+              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/img/img9.jpg');">
               </a>
               <div class="text d-flex float-right d-block">
               	<div class="topper text-center pt-4 px-3">
@@ -44,15 +44,15 @@
             			<span class="yr">2020</span>
               	</div>
               	<div class="desc p-4">
-	                <h3 class="heading mt-2"><a href="#">Overcoming Spirits of Infirmities</a></h3>
-	                <p>The book "OvercomingSpirits of Infirmities" is Holy Spirit inspired to bring Healing Miracle to the impossibly sick. </p>
+                <h3 class="heading mt-2"><a href="#"> All you want to know about Bible</a></h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/book2.jpeg');">
+              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/img/img10.jpg');">
               </a>
               <div class="text d-flex float-right d-block">
               	<div class="topper text-center pt-4 px-3">
@@ -61,15 +61,15 @@
             			<span class="yr">2020</span>
               	</div>
               	<div class="desc p-4">
-	                <h3 class="heading mt-2"><a href="#">Overcoming Water Spirit on Assignment</a></h3>
-	                <p>Water Spirirts, also known as Marine or Mermaud Spirirts, are demonic forces with ther spiritual habitation as water.</p>
+                <h3 class="heading mt-2"><a href="#"> All you want to know about Bible</a></h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-4 d-flex ftco-animate">
           	<div class="blog-entry">
-              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/book3.jpeg');">
+              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/img/img15.jpg');">
               </a>
               <div class="text d-flex float-right d-block">
               	<div class="topper text-center pt-4 px-3">
@@ -78,15 +78,15 @@
             			<span class="yr">2020</span>
               	</div>
               	<div class="desc p-4">
-	                <h3 class="heading mt-2"><a href="#">Deeper Walk in the Spirit</a></h3>
-	                <p>God desires you live, walk and operate at the Godhead level. This can only be possible if you learn to live, walk and be led by Holy Spirit.</p>
+                <h3 class="heading mt-2"><a href="#"> All you want to know about Bible</a></h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/book4.jpeg');">
+              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/img/img14.jpg');">
               </a>
               <div class="text d-flex float-right d-block">
               	<div class="topper text-center pt-4 px-3">
@@ -95,15 +95,15 @@
             			<span class="yr">2019</span>
               	</div>
               	<div class="desc p-4">
-	                <h3 class="heading mt-2"><a href="#">Beauty of Holiness</a></h3>
-	                <p>Holiness is a subject that is very much dreaded by many, though they have had a genuine salvation encounter with the Lord Jesus Christ.</p>
+                <h3 class="heading mt-2"><a href="#"> All you want to know about Bible</a></h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/book5.jpeg');">
+              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/img/img13.jpg');">
               </a>
               <div class="text d-flex float-right d-block">
               	<div class="topper text-center pt-4 px-3">
@@ -112,15 +112,15 @@
             			<span class="yr">2019</span>
               	</div>
               	<div class="desc p-4">
-	                <h3 class="heading mt-2"><a href="#">Men of Valour</a></h3>
-	                <p>"Men of Valour " is about men fully equipped with the know-how to divine strategies for calming storms of life.</p>
+                <h3 class="heading mt-2"><a href="#"> All you want to know about Bible</a></h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
                 </div>
               </div>
             </div>
-          </div> -->
-          <!-- <div class="col-lg-4 d-flex ftco-animate">
+          </div> 
+          <div class="col-lg-4 d-flex ftco-animate">
           	<div class="blog-entry">
-              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/image_6.jpg');">
+              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/img/img7.jpg');">
               </a>
               <div class="text d-flex float-right d-block">
               	<div class="topper text-center pt-4 px-3">
@@ -134,25 +134,25 @@
                 </div>
               </div>
             </div>
-          </div>  -->
-        <!-- </div>
+          </div>  
+        </div>
         <div class="row mt-5">
           <div class="col text-center">
             <div class="block-27">
               <ul>
                 <li><a href="#">&lt;</a></li>
-                <li class="active"><span>1</span></li> -->
+                <li class="active"><span>1</span></li> 
                 <!-- <li><a href="#">2</a></li>
                 <li><a href="#">3</a></li>
                 <li><a href="#">4</a></li>
                 <li><a href="#">5</a></li> -->
-                <!-- <li><a href="#">&gt;</a></li>
+                 <li><a href="#">&gt;</a></li>
               </ul>
             </div>
           </div>
         </div>
       </div>
-    </section> -->
+    </section>
 
 
     <!-- <section class="ftco-section ftco-section-parallax bg-secondary ftco-no-pb">
