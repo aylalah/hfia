@@ -11,7 +11,7 @@
 @section('content')
               
     <!--== Slider Area Start ==-->
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/gallery/image_8.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/img/img7.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
@@ -64,7 +64,7 @@
         <div class="row">
         	<div class="col-md-4">
         		<div class="sermon-wrap sermon-wrap-2 mb-4 ftco-animate">
-    					<a href="sermons.html" class="img" style="background-image: url(images/sermon-1.jpg);"></a>
+    					<a href="sermons.html" class="img" style="background-image: url(images/img/img10.jpg);"></a>
     					<div class="text p-4 bg-light text-center">
     						<h2 class="mb-3"><a href="sermon.html">Lord is Sufficient for all of our needs</a></h2>
 		  					<div class="meta">
@@ -83,7 +83,7 @@
         	</div>
         	<div class="col-md-4">
         		<div class="sermon-wrap sermon-wrap-2 mb-4 ftco-animate">
-    					<a href="sermons.html" class="img" style="background-image: url(images/sermon-2.jpg);"></a>
+    					<a href="sermons.html" class="img" style="background-image: url(images/img/img10.jpg);"></a>
     					<div class="text p-4 bg-light text-center">
     						<h2 class="mb-3"><a href="sermon.html">Lord is Sufficient for all of our needs</a></h2>
 		  					<div class="meta">
@@ -102,7 +102,7 @@
         	</div>
         	<div class="col-md-4">
         		<div class="sermon-wrap sermon-wrap-2 mb-4 ftco-animate">
-    					<a href="sermons.html" class="img" style="background-image: url(images/sermon-3.jpg);"></a>
+    					<a href="sermons.html" class="img" style="background-image: url(images/img/img10.jpg);"></a>
     					<div class="text p-4 bg-light text-center">
     						<h2 class="mb-3"><a href="sermon.html">Lord is Sufficient for all of our needs</a></h2>
 		  					<div class="meta">
@@ -121,7 +121,7 @@
         	</div>
         	<div class="col-md-4">
         		<div class="sermon-wrap sermon-wrap-2 mb-4 ftco-animate">
-    					<a href="sermons.html" class="img" style="background-image: url(images/sermon-4.jpg);"></a>
+    					<a href="sermons.html" class="img" style="background-image: url(images/img/img10.jpg);"></a>
     					<div class="text p-4 bg-light text-center">
     						<h2 class="mb-3"><a href="sermon.html">Lord is Sufficient for all of our needs</a></h2>
 		  					<div class="meta">
@@ -140,7 +140,7 @@
         	</div>
         	<div class="col-md-4">
         		<div class="sermon-wrap sermon-wrap-2 mb-4 ftco-animate">
-    					<a href="sermons.html" class="img" style="background-image: url(images/sermon-5.jpg);"></a>
+    					<a href="sermons.html" class="img" style="background-image: url(images/img/img10.jpg);"></a>
     					<div class="text p-4 bg-light text-center">
     						<h2 class="mb-3"><a href="sermon.html">Lord is Sufficient for all of our needs</a></h2>
 		  					<div class="meta">
@@ -159,7 +159,7 @@
         	</div>
         	<div class="col-md-4">
         		<div class="sermon-wrap sermon-wrap-2 mb-4 ftco-animate">
-    					<a href="sermons.html" class="img" style="background-image: url(images/sermon-6.jpg);"></a>
+    					<a href="sermons.html" class="img" style="background-image: url(images/img/img10.jpg);"></a>
     					<div class="text p-4 bg-light text-center">
     						<h2 class="mb-3"><a href="sermon.html">Lord is Sufficient for all of our needs</a></h2>
 		  					<div class="meta">
@@ -183,10 +183,10 @@
               <ul>
                 <li><a href="#">&lt;</a></li>
                 <li class="active"><span>1</span></li>
-                <li><a href="#">2</a></li>
+                <!-- <li><a href="#">2</a></li>
                 <li><a href="#">3</a></li>
                 <li><a href="#">4</a></li>
-                <li><a href="#">5</a></li>
+                <li><a href="#">5</a></li> -->
                 <li><a href="#">&gt;</a></li>
               </ul>
             </div>
@@ -196,7 +196,7 @@
     </section>
 
 
-    <section class="ftco-section ftco-section-parallax bg-secondary ftco-no-pb">
+    <!-- <section class="ftco-section ftco-section-parallax bg-secondary ftco-no-pb">
       <div class="parallax-img d-flex align-items-center">
         <div class="container">
           <div class="row d-flex justify-content-center">
@@ -217,7 +217,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- End Main Body -->
 

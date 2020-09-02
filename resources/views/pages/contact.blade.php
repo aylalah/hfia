@@ -11,7 +11,7 @@
 @section('content')
               
     <!--== Slider Area Start ==-->
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_7.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
@@ -28,8 +28,8 @@
     		<div class="row justify-content-center">
     			<div class="col-md-10 daily-verse text-center p-5">
     				<span class="flaticon-bible"></span>
-    				<h3 class="ftco-animate">"16 For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."</h3>
-    				<h4 class="h5 mt-4 font-weight-bold ftco-animate">&mdash; John 3:16 KJV</h4>
+    				<h3 class="ftco-animate">"10 But my horn shall thou exalt like the horn of an unicorn: I shall be anointed with fresh oil."</h3>
+    				<h4 class="h5 mt-4 font-weight-bold ftco-animate">&mdash; Psalm 92:10 KJV</h4>
     			</div>
     		</div>
     	</div>
@@ -52,11 +52,11 @@
             <p style="font-size:20px"><span style="color:#fd9504; font-size:30px; margin-right:10px;">Email:</span> <a href="mailto:bishopgiftchuksn@yahoo.com">bishopgiftchuksn@yahoo.com</a></p>
           </div>
           <div class="col-md-12" style="margin-left:20px">
-            <p style="font-size:20px"><span style="color:#fd9504; font-size:30px; margin-right:10px;">Website:</span> <a href="#">yoursite.com</a></p>
+            <p style="font-size:20px"><span style="color:#fd9504; font-size:30px; margin-right:10px;">Website:</span> <a href="{{url('/')}}">fgcmw.org</a></p>
           </div>
         </div>
         <div class="row block-9">
-          <div class="col-lg-6 order-md-last d-flex">
+          <div class="col-lg-6 order-md-last d-flex" id="form">
             <form action="#" class="bg-light p-5 contact-form">
               <div class="form-group">
                 <input type="text" class="form-control" placeholder="Your Name(Initials only/Optional)">

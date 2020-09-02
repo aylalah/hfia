@@ -11,7 +11,7 @@
 @section('content')
               
     <!--== Slider Area Start ==-->
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/about-2.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/bg_5.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
@@ -23,12 +23,70 @@
       </div>
     </section>
 
-    <section class="ftco-section bg-light">
+
+
+    <!-- <h3 class="m-5 text-center" id="hfia"><i>COMING SOON...</i></h3> -->
+
+
+						<!-- <p>Harvest Fire International Assembly is a flourishing church in Nigeria with headquaters in Oyo, Oyo state of Nigeria, having branches in Nigeria. </p> -->
+
+     <section class="ftco-section bg-light">
       <div class="container">
         <div class="row d-flex">
           <div class="col-lg-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/image_1.jpg');">
+              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/img/img9.jpg');">
+              </a>
+              <div class="text d-flex float-right d-block">
+              	<div class="topper text-center pt-4 px-3">
+            			<span class="day">30</span>
+            			<span class="mos">August</span>
+            			<span class="yr">2020</span>
+              	</div>
+              	<div class="desc p-4">
+                <h3 class="heading mt-2"><a href="#"> All you want to know about Bible</a></h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 d-flex ftco-animate">
+          	<div class="blog-entry justify-content-end">
+              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/img/img10.jpg');">
+              </a>
+              <div class="text d-flex float-right d-block">
+              	<div class="topper text-center pt-4 px-3">
+            			<span class="day">22</span>
+            			<span class="mos">May</span>
+            			<span class="yr">2020</span>
+              	</div>
+              	<div class="desc p-4">
+                <h3 class="heading mt-2"><a href="#"> All you want to know about Bible</a></h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 d-flex ftco-animate">
+          	<div class="blog-entry">
+              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/img/img15.jpg');">
+              </a>
+              <div class="text d-flex float-right d-block">
+              	<div class="topper text-center pt-4 px-3">
+            			<span class="day">14</span>
+            			<span class="mos">May</span>
+            			<span class="yr">2020</span>
+              	</div>
+              	<div class="desc p-4">
+                <h3 class="heading mt-2"><a href="#"> All you want to know about Bible</a></h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-4 d-flex ftco-animate">
+          	<div class="blog-entry justify-content-end">
+              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/img/img14.jpg');">
               </a>
               <div class="text d-flex float-right d-block">
               	<div class="topper text-center pt-4 px-3">
@@ -37,15 +95,15 @@
             			<span class="yr">2019</span>
               	</div>
               	<div class="desc p-4">
-	                <h3 class="heading mt-2"><a href="#">All you want to know about Bible</a></h3>
-	                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                <h3 class="heading mt-2"><a href="#"> All you want to know about Bible</a></h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
                 </div>
               </div>
             </div>
           </div>
           <div class="col-lg-4 d-flex ftco-animate">
           	<div class="blog-entry justify-content-end">
-              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/image_2.jpg');">
+              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/img/img13.jpg');">
               </a>
               <div class="text d-flex float-right d-block">
               	<div class="topper text-center pt-4 px-3">
@@ -54,15 +112,15 @@
             			<span class="yr">2019</span>
               	</div>
               	<div class="desc p-4">
-	                <h3 class="heading mt-2"><a href="#">All you want to know about Bible</a></h3>
-	                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
+                <h3 class="heading mt-2"><a href="#"> All you want to know about Bible</a></h3>
+                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
                 </div>
               </div>
             </div>
-          </div>
+          </div> 
           <div class="col-lg-4 d-flex ftco-animate">
           	<div class="blog-entry">
-              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/image_3.jpg');">
+              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/img/img7.jpg');">
               </a>
               <div class="text d-flex float-right d-block">
               	<div class="topper text-center pt-4 px-3">
@@ -76,70 +134,19 @@
                 </div>
               </div>
             </div>
-          </div>
-          <div class="col-lg-4 d-flex ftco-animate">
-          	<div class="blog-entry justify-content-end">
-              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/image_4.jpg');">
-              </a>
-              <div class="text d-flex float-right d-block">
-              	<div class="topper text-center pt-4 px-3">
-            			<span class="day">18</span>
-            			<span class="mos">January</span>
-            			<span class="yr">2019</span>
-              	</div>
-              	<div class="desc p-4">
-	                <h3 class="heading mt-2"><a href="#">All you want to know about Bible</a></h3>
-	                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 d-flex ftco-animate">
-          	<div class="blog-entry justify-content-end">
-              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/image_5.jpg');">
-              </a>
-              <div class="text d-flex float-right d-block">
-              	<div class="topper text-center pt-4 px-3">
-            			<span class="day">15</span>
-            			<span class="mos">January</span>
-            			<span class="yr">2019</span>
-              	</div>
-              	<div class="desc p-4">
-	                <h3 class="heading mt-2"><a href="#">All you want to know about Bible</a></h3>
-	                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-4 d-flex ftco-animate">
-          	<div class="blog-entry">
-              <a href="{{url('blog_details/')}}" class="block-20" style="background-image: url('images/image_6.jpg');">
-              </a>
-              <div class="text d-flex float-right d-block">
-              	<div class="topper text-center pt-4 px-3">
-            			<span class="day">14</span>
-            			<span class="mos">January</span>
-            			<span class="yr">2019</span>
-              	</div>
-              	<div class="desc p-4">
-	                <h3 class="heading mt-2"><a href="#">All you want to know about Bible</a></h3>
-	                <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-                </div>
-              </div>
-            </div>
-          </div>
+          </div>  
         </div>
         <div class="row mt-5">
           <div class="col text-center">
             <div class="block-27">
               <ul>
                 <li><a href="#">&lt;</a></li>
-                <li class="active"><span>1</span></li>
-                <li><a href="#">2</a></li>
+                <li class="active"><span>1</span></li> 
+                <!-- <li><a href="#">2</a></li>
                 <li><a href="#">3</a></li>
                 <li><a href="#">4</a></li>
-                <li><a href="#">5</a></li>
-                <li><a href="#">&gt;</a></li>
+                <li><a href="#">5</a></li> -->
+                 <li><a href="#">&gt;</a></li>
               </ul>
             </div>
           </div>
@@ -148,7 +155,7 @@
     </section>
 
 
-    <section class="ftco-section ftco-section-parallax bg-secondary ftco-no-pb">
+    <!-- <section class="ftco-section ftco-section-parallax bg-secondary ftco-no-pb">
       <div class="parallax-img d-flex align-items-center">
         <div class="container">
           <div class="row d-flex justify-content-center">
@@ -169,7 +176,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
         
     <!-- End Main Body -->

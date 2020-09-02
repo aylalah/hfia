@@ -11,17 +11,17 @@
 @section('content')
               
     <!--== Slider Area Start ==-->
-    <div class="hero-wrap js-fullheight" style="background-image: url('images/bg_7.jpg');" data-stellar-background-ratio="0.5">
+    <div class="hero-wrap js-fullheight " style="background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.2)),url('images/bg_7.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-10 text-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
-          	<h1 class="mb-0" style="font-size:40px">Welcome to Family of God Charismatic Ministries Worldwide (Inc.)</h1>
+          	<h1 class="mb-0" style="font-family:arial; font-weight:bold; line-height:70px"><span style=" margin-bottom:-60px;">Welcome</span> <br /><span style="color:#fff; background:#000; border-radius:50%; font-size: 10px;padding:5px; width:30px; text-align:center; margin:auto; line-height:25px;">TO</span><br /> <span style="margin-top:-85px; font-size:40px;"> Family of God Charismatic Ministries Worldwide (Inc.)</span></h1>
           	<h3 class="subheading mb-4 pb-1">Where the Holy Spirit is real</h3>
-          	<p><a href="#" class="btn btn-primary py-3 px-4">New here!</a> <a href="https://solid9.streamupsolutions.com/proxy/jtwagjwn?mp=/;type=mp3"  target="_blank" class="btn btn-white py-3 px-4"><span class="icon-play-circle"></span> Live Stream</a></p>
+          	<p><a id="button" href="#" class="btn btn-primary py-3 px-4">New here!</a> <a id="button" href="https://solid9.streamupsolutions.com/proxy/jtwagjwn?mp=/;type=mp3"  target="_blank" class="btn btn-white py-3 px-4"><span class="icon-play-circle"></span> Live Stream</a></p>
             <div class="mouse">
 							<a href="#" class="mouse-icon">
-								<div class="mouse-wheel"><span class="ion-ios-arrow-down"></span></div>
+								<div class="mouse-wheel mb"><span class="ion-ios-arrow-down"></span></div>
 							</a>
 						</div>
           </div>
@@ -29,23 +29,23 @@
       </div>
     </div>
 
-    <section class="ftco-intro py-5" style="background-image: url(images/bg_4.jpg);">
-    	<div class="overlay"></div>
+    <section class="ftco-intro py-5" style="background-image: url(images/img/img6.jpg);">
+    	<div id="up" class="overlay"></div>
     	<div class="container">
     		<div class="row d-flex align-items-center">
     			<div class="col-md-6 ftco-animate">
     				<h2 class="subheading"><span class="icon-calendar"></span> Upcoming Events</h2>
-    				<h2><a href="#">"Global Youth Deliverance Crusade" <br/>
-    				<b>NO MORE LIMITS</b> <br/>&mdash; Bishop Gift Chuks Nnaji <br/> <span style="font-size:16px; margin-left:10px">Church Cathedral</span> </a></h2>
+    				<h2><a href="#">"Atmosphere for Signs and Wonders" <br/>
+    				<b><!--NO MORE LIMITS-->6pm</b> <br/>&mdash; Bishop Gift Chuks Nnaji <br/> <span style="font-size:16px; margin-left:10px">Church Cathedral</span> </a></h2>
+						<p><a href="{{url('events/')}}" class="btn btn-primary px-4 py-2">View upcoming events</a></p>
     			</div>
-    			<div class="col-md-6 pl-md-5 ftco-animate">
-    				<div id="timer" class="d-flex mb-3">
+    			<div id="up2" class="col-md-6 pl-md-5 ftco-animate">
+    				<!-- <div id="timer" class="d-flex mb-3">
 						  <div class="time" id="days"></div>
 						  <div class="time pl-4" id="hours"></div>
 						  <div class="time pl-4" id="minutes"></div>
 						  <div class="time pl-4" id="seconds"></div>
-						</div>
-						<p><a href="#" class="btn btn-primary px-4 py-2">View upcoming events</a></p>
+						</div> -->
     			</div>
     		</div>
     	</div>
@@ -73,23 +73,23 @@
         </div>
     		<div class="row">
     			<div class="col-lg-6">
-    				<div style="height:200px" class="d-flex services ftco-animate text-lg-right">
-	            <div class="icon order-lg-last d-flex align-items-center justify-content-center"><span class="flaticon-praying"></span></div>
-	            <div class="media-body pr-lg-5">
+    				<div id="service" style="height:200px" class="d-flex services ftco-animate text-lg-right">
+	            <div id="icon"><div class="icon order-lg-last d-flex align-items-center justify-content-center"><span id="icon" class="flaticon-praying"></span></div></div>
+	            <div id="service-note" class="media-body pr-lg-5">
 	              <h3 class="heading mb-3">Supernatural Life Service</h3>
 	              <p style="font-size:">The God we serve is a supernatural being and he expects us to operate from that realm. Fellowship with us every Sunday learn more about the supernatural life of Christ. Holds every <b>Sundays</b> by <b>8:30am</b>.</p>
 	            </div>
 	          </div>
-	          <div style="height:200px" class="d-flex services ftco-animate text-lg-right">
-	            <div class="icon order-lg-last d-flex align-items-center justify-content-center"><span class="flaticon-church"></span></div>
-	            <div class="media-body pr-lg-5">
+	          <div id="service" style="height:200px" class="d-flex services ftco-animate text-lg-right">
+	            <div id="icon"><div class="icon order-lg-last d-flex align-items-center justify-content-center"><span id="icon" class="flaticon-church"></span></div></div>
+	            <div id="service-note" class="media-body pr-lg-5">
 	              <h3 class="heading mb-3">Hannah and Esthers</h3>
 	              <p style="font-size:">A multidenominational arm of women's ministry. Where the singles and expectant mothers gather to seek God's face for their specific needs.  Holds every <b>Tuesdays</b> by <b>6pm</b>.</p>
 	            </div>
 	          </div>
-	          <div style="height:200px" class="d-flex services ftco-animate text-lg-right">
-	            <div class="icon order-lg-last d-flex align-items-center justify-content-center"><span class="flaticon-bible"></span></div>
-	            <div class="media-body pr-lg-5">
+	          <div id="service" style="height:200px" class="d-flex services ftco-animate text-lg-right">
+	            <div id="icon"><div class="icon order-lg-last d-flex align-items-center justify-content-center"><span id="icon" class="flaticon-bible"></span></div></div>
+	            <div id="service-note" class="media-body pr-lg-5">
 	              <h3 class="heading mb-3" style="font-size">Word, Miracle and Communion Service</h3>
 	              <p>Faith comes by hearing and hearing by the word of God. Ignite your faith as you learn about and practice scriptural principles.  Holds every <b>Thursdays</b> by <b>6pm</b>.</p>
 	            </div>
@@ -97,23 +97,23 @@
     			</div>
 
     			<div class="col-lg-6">
-    				<div style="height:200px" class="d-flex services ftco-animate text-lg-left">
-	            <div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-social-care"></span></div>
-	            <div class="media-body pl-lg-5">
+    				<div id="service" style="height:200px" class="d-flex services ftco-animate text-lg-left">
+	            <div id="icon"><div class="icon d-flex align-items-center justify-content-center"><span id="icon" class="flaticon-social-care"></span></div></div>
+	            <div id="service-note" class="media-body pl-lg-5">
 	              <h3 class="heading mb-3">Family Communion</h3>
 	              <p style="font-size">God operates with families because the devil fights hard to separate families. Experience family healing, revival and reunion in family communion.  Holds every <b>Second Sundays</b> of every month by <b>6pm</b> in ur various homes.</p>
 	            </div>
 	          </div>
-	          <div style="height:200px" class="d-flex services ftco-animate text-lg-left">
-	            <div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-rings"></span></div>
-	            <div class="media-body pl-lg-5">
+	          <div id="service" style="height:200px" class="d-flex services ftco-animate text-lg-left">
+	            <div id="icon"><div class="icon d-flex align-items-center justify-content-center"><span id="icon" class="flaticon-rings"></span></div></div>
+	            <div id="service-note" class="media-body pl-lg-5">
 	              <h3 class="heading mb-3">Atmosphere for Signs & Wonders </h3>
 	              <p style="font-size">An interdenominational impartation and anointing service.  Holds every <b>Last Sundays</b> of every month by <b>6pm</b>.</p>
 	            </div>
 	          </div>
-	          <div style="height:200px" class="d-flex services ftco-animate text-lg-left">
-	            <div class="icon d-flex align-items-center justify-content-center"><span class="flaticon-promotion"></span></div>
-	            <div class="media-body pl-lg-5">
+	          <div id="service" style="height:200px" class="d-flex services ftco-animate text-lg-left">
+	            <div id="icon"><div  class="icon d-flex align-items-center justify-content-center"><span id="icon" class="flaticon-promotion"></span></div></div>
+	            <div id="service-note" class="media-body pl-lg-5">
 	              <h3 class="heading mb-3">Youth Church</h3>
 	              <p>Join the teenagers and adult youth as they pant after God. They are the God chasers. Firebrands are the adult youth on fire for God.  Holds on <b>Sundays</b> by <b>11:30am</b>.</p>
 	            </div>

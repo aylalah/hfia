@@ -12,7 +12,7 @@
               
     <!--== Slider Area Start ==-->
     
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/gallery/image_9.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/img/img11.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
@@ -29,14 +29,14 @@
         <div class="row">
           <div class="col-lg-8 ftco-animate">
           	<div class="event-wrap d-md-flex ftco-animate">
-	          	<div class="img"style="background-image: url(images/event-1.jpg);"></div>
+	          	<div class="img"style="background-image: url(images/img/img13.jpg);"></div>
 	          	<div class="text pl-md-5">
-	          		<h2 class="mb-3"><a href="sermons.html">Know Jesus Christ Better Through Lines</a></h2>
+	          		<h2 class="mb-3"><a href="#">Atmosphere for Signs and Wonders</a></h2>
 	          		<div class="meta">
 		  						<p>
-			  						<span><i class="icon-calendar mr-2"></i> Monday, 8:00 Am - Tuesday, 8:00 Pm</span>
-			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Spring Church</a></span>
-			  						<span><i class="icon-location_city mr-2"></i> 203 Fake St. Mountain View, San Francisco, California, USA</span>
+			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">27th September, 2020 - 6pm</i></span>
+			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Harvest Fire Int'l Assembly</a></span>
+			  						<span><i class="icon-location_city mr-2"></i>  22/24 Salvation Road, Araromi, Oyo, Oyo State</span>
 		  						</p>
 		  					</div>
 		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
@@ -44,28 +44,28 @@
 	          </div>
 	          <div class="event-wrap d-md-flex ftco-animate">
 	          	<div class="text pl-md-5">
-	          		<h2 class="mb-3"><a href="sermons.html">Know Jesus Christ Better Through Lines</a></h2>
+	          		<h2 class="mb-3"><a href="sermons.html">...</a></h2>
 	          		<div class="meta">
 		  						<p>
-			  						<span><i class="icon-calendar mr-2"></i> Monday, 8:00 Am - Tuesday, 8:00 Pm</span>
-			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Spring Church</a></span>
-			  						<span><i class="icon-location_city mr-2"></i> 203 Fake St. Mountain View, San Francisco, California, USA</span>
+			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">To be updated</i></span>
+			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Harvest Fire Int'l Assembly</a></span>
+			  						<span><i class="icon-location_city mr-2"></i>  22/24 Salvation Road, Araromi, Oyo, Oyo State</span>
 		  						</p>
 		  					</div>
 		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
 	          	</div>
-	          	<div class="img"style="background-image: url(images/event-2.jpg);"></div>
+	          	<div class="img"style="background-image: url(images/img/img9.jpg);"></div>
 	          </div>
 
 	          <div class="event-wrap d-md-flex ftco-animate">
-	          	<div class="img"style="background-image: url(images/event-3.jpg);"></div>
+	          	<div class="img"style="background-image: url(images/img/img12.jpg);"></div>
 	          	<div class="text pl-md-5">
-	          		<h2 class="mb-3"><a href="sermons.html">Know Jesus Christ Better Through Lines</a></h2>
+	          		<h2 class="mb-3"><a href="sermons.html">...</a></h2>
 	          		<div class="meta">
 		  						<p>
-			  						<span><i class="icon-calendar mr-2"></i> Monday, 8:00 Am - Tuesday, 8:00 Pm</span>
-			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Spring Church</a></span>
-			  						<span><i class="icon-location_city mr-2"></i> 203 Fake St. Mountain View, San Francisco, California, USA</span>
+			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">To be updated</i></span>
+			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Harvest Fire Int'l Assembly</a></span>
+			  						<span><i class="icon-location_city mr-2"></i>  22/24 Salvation Road, Araromi, Oyo, Oyo State</span>
 		  						</p>
 		  					</div>
 		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
@@ -75,28 +75,28 @@
 	          <div class="event-wrap d-md-flex ftco-animate">
 	          	
 	          	<div class="text pl-md-5">
-	          		<h2 class="mb-3"><a href="sermons.html">Know Jesus Christ Better Through Lines</a></h2>
+	          		<h2 class="mb-3"><a href="sermons.html">...</a></h2>
 	          		<div class="meta">
 		  						<p>
-			  						<span><i class="icon-calendar mr-2"></i> Monday, 8:00 Am - Tuesday, 8:00 Pm</span>
-			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Spring Church</a></span>
-			  						<span><i class="icon-location_city mr-2"></i> 203 Fake St. Mountain View, San Francisco, California, USA</span>
+			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">To be updated</i></span>
+			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Harvest Fire Int'l Assembly</a></span>
+			  						<span><i class="icon-location_city mr-2"></i>  22/24 Salvation Road, Araromi, Oyo, Oyo State</span>
 		  						</p>
 		  					</div>
 		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
 	          	</div>
-	          	<div class="img"style="background-image: url(images/event-4.jpg);"></div>
+	          	<div class="img"style="background-image: url(images/img/img3.jpg);"></div>
 	          </div>
 
-	          <div class="event-wrap d-md-flex ftco-animate">
+	          <!-- <div class="event-wrap d-md-flex ftco-animate">
 	          	<div class="img"style="background-image: url(images/event-5.jpg);"></div>
 	          	<div class="text pl-md-5">
-	          		<h2 class="mb-3"><a href="sermons.html">Know Jesus Christ Better Through Lines</a></h2>
+	          		<h2 class="mb-3"><a href="sermons.html">...</a></h2>
 	          		<div class="meta">
 		  						<p>
-			  						<span><i class="icon-calendar mr-2"></i> Monday, 8:00 Am - Tuesday, 8:00 Pm</span>
-			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Spring Church</a></span>
-			  						<span><i class="icon-location_city mr-2"></i> 203 Fake St. Mountain View, San Francisco, California, USA</span>
+			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">To be updated</i></span>
+			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Harvest Fire Int'l Assembly</a></span>
+			  						<span><i class="icon-location_city mr-2"></i>  22/24 Salvation Road, Araromi, Oyo, Oyo State</span>
 		  						</p>
 		  					</div>
 		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
@@ -106,12 +106,12 @@
 	          <div class="event-wrap d-md-flex ftco-animate">
 	          	
 	          	<div class="text pl-md-5">
-	          		<h2 class="mb-3"><a href="sermons.html">Know Jesus Christ Better Through Lines</a></h2>
+	          		<h2 class="mb-3"><a href="sermons.html">...</a></h2>
 	          		<div class="meta">
 		  						<p>
-			  						<span><i class="icon-calendar mr-2"></i> Monday, 8:00 Am - Tuesday, 8:00 Pm</span>
-			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Spring Church</a></span>
-			  						<span><i class="icon-location_city mr-2"></i> 203 Fake St. Mountain View, San Francisco, California, USA</span>
+			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">To be updated</i></span>
+			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Harvest Fire Int'l Assembly</a></span>
+			  						<span><i class="icon-location_city mr-2"></i>  22/24 Salvation Road, Araromi, Oyo, Oyo State</span>
 		  						</p>
 		  					</div>
 		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
@@ -119,7 +119,8 @@
 	          	<div class="img"style="background-image: url(images/event-6.jpg);"></div>
 	          </div>
 
-          </div> <!-- .col-md-8 -->
+          </div>  -->
+          <!-- .col-md-8 -->
           <!--<div class="col-lg-4 sidebar ftco-animate">-->
           <!--  <div class="sidebar-box">-->
           <!--    <form action="#" class="search-form">-->
@@ -141,7 +142,7 @@
           <!--    </div>-->
           <!--  </div>-->
 
-            <div class="sidebar-box ftco-animate">
+            <!-- <div class="sidebar-box ftco-animate">
               <h3>Recent Blog</h3>
               <div class="block-21 mb-4 d-flex">
                 <a class="blog-img mr-4" style="background-image: url(images/image_1.jpg);"></a>
@@ -175,7 +176,7 @@
                     <div><a href="#"><span class="icon-chat"></span> 19</a></div>
                   </div>
                 </div>
-              </div>
+              </div> -->
             </div>
 
             <!--<div class="sidebar-box ftco-animate">-->
