@@ -31,10 +31,10 @@
           	<div class="event-wrap d-md-flex ftco-animate">
 	          	<div class="img"style="background-image: url(images/img/img13.jpg);"></div>
 	          	<div class="text pl-md-5">
-	          		<h2 class="mb-3"><a href="sermons.html">...</a></h2>
+	          		<h2 class="mb-3"><a href="#">Atmosphere for Signs and Wonders</a></h2>
 	          		<div class="meta">
 		  						<p>
-			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">To be updated</i></span>
+			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">27th September, 2020 - 6pm</i></span>
 			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Harvest Fire Int'l Assembly</a></span>
 			  						<span><i class="icon-location_city mr-2"></i>  22/24 Salvation Road, Araromi, Oyo, Oyo State</span>
 		  						</p>

@@ -35,8 +35,8 @@
     		<div class="row d-flex align-items-center">
     			<div class="col-md-6 ftco-animate">
     				<h2 class="subheading"><span class="icon-calendar"></span> Upcoming Events</h2>
-    				<h2><a href="#">"Global Youth Deliverance Crusade" <br/>
-    				<b>NO MORE LIMITS</b> <br/>&mdash; Bishop Gift Chuks Nnaji <br/> <span style="font-size:16px; margin-left:10px">Church Cathedral</span> </a></h2>
+    				<h2><a href="#">"Atmosphere for Signs and Wonders" <br/>
+    				<b><!--NO MORE LIMITS-->6pm</b> <br/>&mdash; Bishop Gift Chuks Nnaji <br/> <span style="font-size:16px; margin-left:10px">Church Cathedral</span> </a></h2>
 						<p><a href="{{url('events/')}}" class="btn btn-primary px-4 py-2">View upcoming events</a></p>
     			</div>
     			<div id="up2" class="col-md-6 pl-md-5 ftco-animate">
