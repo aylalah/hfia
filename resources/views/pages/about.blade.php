@@ -50,7 +50,7 @@
   				<div class="col-md-6 py-4 text ftco-animate">
   					<h2 class="mb-4"><a href="sermon.html">About the Bishop</a></h2>
   					
-						<p>Bishop Gift Chuks Nnaji is the Presiding Bishop of Family of God Charismatic Ministries Worldwide (Inc.), Oyo, Oyo State, Nigeria. He presides over World Evangelization Int' Movement and Pastors Harvest Fire International Assembly. He has mandate to "TEACH THE WORLD THE POWER THAT CAN SET HER FREE AND HOW SHE CAN BE FREED." This two dimensional mission statement has taken him through a few continents of the world. He is married to Rev. Mrs. Glory Nnaji and blessed with two children, Chinwe and Daniel.</p>
+						<p>Bishop Gift Chuks Nnaji is the Presiding Bishop of Family of God Charismatic Ministries Worldwide (Inc.), Oyo, Oyo State, Nigeria. He presides over World Evangelization Movement and Pastors Harvest Fire International Assembly. He has mandate to "TEACH THE WORLD THE POWER THAT CAN SET HER FREE AND HOW SHE CAN BE FREED." This two dimensional mission statement has taken him through a few continents of the world. He is married to Rev. Mrs. Glory Nnaji and blessed with two children, Chinwe and Daniel.</p>
 						<!-- <p class="mt-4 btn-customize">
 							<a href="https://vimeo.com/45830194" class="btn btn-primary px-4 py-3 mr-md-2 popup-vimeo"><span class="icon-play"></span> Watch Sermons</a> <a href="#" class="btn btn-black px-4 py-3 ml-lg-2"><span class="icon-download"></span> Download Sermons</a>
 						</p> -->

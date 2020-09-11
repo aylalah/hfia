@@ -71,6 +71,13 @@
                         justify-content:center;
                         align-items:center;
                 }
+                #contact{
+                        margin-left:200px;
+                }
+                iframe{
+                        width:500px;
+                        height:500px;
+                }
         }
         @media only screen and (min-width: 768px) and (max-width: 1000px){
                 #min{

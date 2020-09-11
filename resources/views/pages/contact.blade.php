@@ -34,10 +34,10 @@
     		</div>
     	</div>
     </section>
-
+    
     <section class="ftco-section contact-section">
       <div class="container" style="width:100%">
-        <div class="row d-flex mb-5 contact-info" style="flex-direction:column; margin-left:200px;justify-content:center;align-items:left;">
+        <div class="row d-flex mb-5 contact-info" id="contact"  style="flex-direction:column; justify-content:center;align-items:left;">
           <div class="col-md-12 mb-4">
             <h2 class="h3">Contact Information</h2>
           </div>
@@ -46,7 +46,7 @@
             <p style="color:#000; font-size:20px"><span style="color:#fd9504; font-size:30px; margin-right:10px;">Address:</span> 22/24 Salvation Road, Araromi, Oyo, Oyo State.</p>
           </div>
           <div class="col-md-12" style="margin-left:20px">
-            <p style="font-size:20px"><span style="color:#fd9504; font-size:30px; margin-right:10px;">Phone:</span> <a href="tel:08085066892">08085066892</a></p>
+            <p style="font-size:20px"><span style="color:#fd9504; font-size:30px; margin-right:10px;">Phone:</span> <a href="tel:08085066892">08035066892</a></p>
           </div>
           <div class="col-md-12" style="margin-left:20px">
             <p style="font-size:20px"><span style="color:#fd9504; font-size:30px; margin-right:10px;">Email:</span> <a href="mailto:bishopgiftchuksn@yahoo.com">bishopgiftchuksn@yahoo.com</a></p>
