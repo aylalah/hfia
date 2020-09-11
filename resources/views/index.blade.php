@@ -36,7 +36,7 @@
     			<div class="col-md-6 ftco-animate">
     				<h2 class="subheading"><span class="icon-calendar"></span> Upcoming Events</h2>
     				<h2><a href="#">"Atmosphere for Signs and Wonders" <br/>
-    				<b><!--NO MORE LIMITS-->6pm</b> <br/>&mdash; Bishop Gift Chuks Nnaji <br/> <span style="font-size:16px; margin-left:10px">Church Cathedral</span> </a></h2>
+    				<b><!--NO MORE LIMITS--> 8:30am</b> <br/>&mdash; Bishop Gift Chuks Nnaji <br/> <span style="font-size:16px; margin-left:10px">Church Cathedral</span> </a></h2>
 						<p><a href="{{url('events/')}}" class="btn btn-primary px-4 py-2">View upcoming events</a></p>
     			</div>
     			<div id="up2" class="col-md-6 pl-md-5 ftco-animate">
@@ -114,7 +114,7 @@
 	          <div id="service" style="height:200px" class="d-flex services ftco-animate text-lg-left">
 	            <div id="icon"><div  class="icon d-flex align-items-center justify-content-center"><span id="icon" class="flaticon-promotion"></span></div></div>
 	            <div id="service-note" class="media-body pl-lg-5">
-	              <h3 class="heading mb-3">Youth Church</h3>
+	              <h3 class="heading mb-3">God's Chasers</h3>
 	              <p>Join the teenagers and adult youth as they pant after God. They are the God chasers. Firebrands are the adult youth on fire for God.  Holds on <b>Sundays</b> by <b>11:30am</b>.</p>
 	            </div>
 	          </div>

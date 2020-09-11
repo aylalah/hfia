@@ -76,8 +76,8 @@
 						<p>Class International Schools is  an educational institute put in place to provide learning spaces and environments for teaching of students under the direction of quality teachers.</p>
 						
 						<div  id="img">
-						<img src="images/gallery/image_10.jpg" style="height:195px; margin-right:2px; width:345px;">
-						<img src="images/gallery/image_10.jpg" style="height:195px; width:345px;">
+						<img src="images/class1.jpg" style="height:195px; margin-right:2px; width:345px;">
+						<img src="images/class2.jpg" style="height:195px; width:345px;">
 						</div>
 					</div>
 				</div>
@@ -103,14 +103,14 @@
 						</ul>
 						<hr>
 						<h3 class="mb-4 mt-5">CRUSADE</h3>
-						<p>Through World Evangelization Movement(WEM), has affectively preached the Gospel all around the world in over 40 cities in Brazil in Latin America with outstanding results in salvation of souls, deliverance from satanic bondage and incredible miracles.</p>
+						<p>Through World Evangelization Movement(WEM), He has affectively preached the Gospel all around the world in over 40 cities in Brazil in Latin America with outstanding results in salvation of souls, deliverance from satanic bondage and incredible miracles.</p>
 						<div  id="img">
 						<img src="images/img/crusade.jpg" style="height:195px; margin-right:2px; width:345px;">
 						<img src="images/img/crusade2.jpg" style="height:195px; width:345px;">
 						</div>
 						<hr>
 						<h3 class="mb-4 mt-5">HEALING TOUCH</h3>
-						<p>The world yearns for the unveiling of the glory of the Messiah Jesus Christ and it is time to reveal the amazing truth of the super nature of our God through the demostration of the Movement conducts Spiritual Warfare and Supernatural-life Conferences in nations of the world.</p>
+						<p>The world yearns for the unveiling of the glory of the Messiah Jesus Christ and it is time to reveal the amazing truth of the super nature of our God through the demostration of the Movement conducts Spiritual Warfare and Supernatural-life Conferences in nations of the world in conjuction with churches that shares the same passionate zeal for the salvation of souls ams expansion of God's Kingdom.</p>
 						<div  id="img">
 						<img src="images/img/img2.jpg" style="height:195px; margin-right:2px; width:345px;">
 						<img src="images/img/img15.jpg" style="height:195px; width:345px;">

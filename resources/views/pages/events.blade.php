@@ -34,7 +34,7 @@
 	          		<h2 class="mb-3"><a href="#">Atmosphere for Signs and Wonders</a></h2>
 	          		<div class="meta">
 		  						<p>
-			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">27th September, 2020 - 6pm</i></span>
+			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">27th September, 2020 - 8:30am</i></span>
 			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Harvest Fire Int'l Assembly</a></span>
 			  						<span><i class="icon-location_city mr-2"></i>  22/24 Salvation Road, Araromi, Oyo, Oyo State</span>
 		  						</p>
