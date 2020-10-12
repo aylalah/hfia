@@ -12,7 +12,7 @@
               
     <!--== Slider Area Start ==-->
     
-    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/img/img11.jpg');" data-stellar-background-ratio="0.5">
+    <section class="hero-wrap hero-wrap-2" style="background-image: url('images/convention.jpg');" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text align-items-end justify-content-center">
@@ -29,22 +29,45 @@
         <div class="row">
           <div class="col-lg-8 ftco-animate">
           	<div class="event-wrap d-md-flex ftco-animate">
-	          	<div class="img"style="background-image: url(images/img/img13.jpg);"></div>
+	          	<div class="img"style="background-image: url(images/convention.jpg);"></div>
 	          	<div class="text pl-md-5">
-	          		<h2 class="mb-3"><a href="#">Atmosphere for Signs and Wonders</a></h2>
+	          		<h2 class="mb-3"><a href="#">Harvest Fire Int'l Convention</a></h2>
 	          		<div class="meta">
 		  						<p>
-			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">27th September, 2020 - 8:30am</i></span>
+			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">4th - 8th Nov, 2020 - 5pm daily</i></span>
 			  						<span><i class="icon-my_location mr-2"></i> <a href="#">Harvest Fire Int'l Assembly</a></span>
 			  						<span><i class="icon-location_city mr-2"></i>  22/24 Salvation Road, Araromi, Oyo, Oyo State</span>
 		  						</p>
 		  					</div>
-		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
+		  					<p><a href="#" class="btn btn-primary" data-toggle="modal"
+                  data-backdrop="false" data-target="#e">Read more</a></p>
 	          	</div>
-	          </div>
+            </div>
+                <div class="modal fade text-left mt-5" id="e" tabindex="-1" role="dialog" aria-labelledby="myModalLabel8"
+                  aria-hidden="true">
+                        <div class="modal-dialog" role="document">
+                          <div class="modal-content">
+                            <div class="modal-header">
+                              <h3 class="modal-title" id="myModalLabel35"> CONVENTION</h3>
+                              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                <span aria-hidden="true">&times;</span>
+                              </button>
+                            </div>
+                            <form>
+                              <div class="modal-body img" style="background-image:  linear-gradient(rgba(0,0,0,0.9), rgba(0,0,0,0.2)), url(images/convention.jpg);">
+                                <p style="color:white"> <b>Harvest Fire Int'l Convention</b>is our annual Anniversary celebration which comes up on the first week of the moth of November. This year, it will hold for 5 days starting from the 4th of November through the 8th of November, themed <b>"DIVINE SETTLEMENT"</b>. The Bishop will be ministering along side with Bishop Jide Orire and Rev (Dr) Matthew Anyanwu. The services commences by 5pm everyday and 8am on the last day(8th Nov.). Come and be blessed!</p>
+                              </div>
+                              <div class="modal-footer">
+                                <button type="button" class="btn grey btn-outline-danger" data-dismiss="modal">Close</button>
+                                {{-- <button type="button" class="btn btn-outline-primary">Save changes</button> --}}
+                              </div>
+                            </form>
+                          </div>
+                        </div>
+                </div>
 	          <div class="event-wrap d-md-flex ftco-animate">
 	          	<div class="text pl-md-5">
-	          		<h2 class="mb-3"><a href="sermons.html">...</a></h2>
+	          		<h2 class="mb-3"><a href="#">...</a></h2>
 	          		<div class="meta">
 		  						<p>
 			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">To be updated</i></span>
@@ -52,7 +75,7 @@
 			  						<span><i class="icon-location_city mr-2"></i>  22/24 Salvation Road, Araromi, Oyo, Oyo State</span>
 		  						</p>
 		  					</div>
-		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
+		  					<p><a href="#" class="btn btn-primary">Read more</a></p>
 	          	</div>
 	          	<div class="img"style="background-image: url(images/img/img9.jpg);"></div>
 	          </div>
@@ -60,7 +83,7 @@
 	          <div class="event-wrap d-md-flex ftco-animate">
 	          	<div class="img"style="background-image: url(images/img/img12.jpg);"></div>
 	          	<div class="text pl-md-5">
-	          		<h2 class="mb-3"><a href="sermons.html">...</a></h2>
+	          		<h2 class="mb-3"><a href="#">...</a></h2>
 	          		<div class="meta">
 		  						<p>
 			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">To be updated</i></span>
@@ -68,14 +91,14 @@
 			  						<span><i class="icon-location_city mr-2"></i>  22/24 Salvation Road, Araromi, Oyo, Oyo State</span>
 		  						</p>
 		  					</div>
-		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
+		  					<p><a href="#" class="btn btn-primary">Read more</a></p>
 	          	</div>
 	          </div>
 
 	          <div class="event-wrap d-md-flex ftco-animate">
 	          	
 	          	<div class="text pl-md-5">
-	          		<h2 class="mb-3"><a href="sermons.html">...</a></h2>
+	          		<h2 class="mb-3"><a href="#">...</a></h2>
 	          		<div class="meta">
 		  						<p>
 			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">To be updated</i></span>
@@ -83,7 +106,7 @@
 			  						<span><i class="icon-location_city mr-2"></i>  22/24 Salvation Road, Araromi, Oyo, Oyo State</span>
 		  						</p>
 		  					</div>
-		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
+		  					<p><a href="#" class="btn btn-primary">Read more</a></p>
 	          	</div>
 	          	<div class="img"style="background-image: url(images/img/img3.jpg);"></div>
 	          </div>
@@ -91,7 +114,7 @@
 	          <!-- <div class="event-wrap d-md-flex ftco-animate">
 	          	<div class="img"style="background-image: url(images/event-5.jpg);"></div>
 	          	<div class="text pl-md-5">
-	          		<h2 class="mb-3"><a href="sermons.html">...</a></h2>
+	          		<h2 class="mb-3"><a href="#">...</a></h2>
 	          		<div class="meta">
 		  						<p>
 			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">To be updated</i></span>
@@ -99,14 +122,14 @@
 			  						<span><i class="icon-location_city mr-2"></i>  22/24 Salvation Road, Araromi, Oyo, Oyo State</span>
 		  						</p>
 		  					</div>
-		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
+		  					<p><a href="#" class="btn btn-primary">Read more</a></p>
 	          	</div>
 	          </div>
 
 	          <div class="event-wrap d-md-flex ftco-animate">
 	          	
 	          	<div class="text pl-md-5">
-	          		<h2 class="mb-3"><a href="sermons.html">...</a></h2>
+	          		<h2 class="mb-3"><a href="#">...</a></h2>
 	          		<div class="meta">
 		  						<p>
 			  						<span><i class="icon-calendar mr-2"></i> <i class="text-muted">To be updated</i></span>
@@ -114,7 +137,7 @@
 			  						<span><i class="icon-location_city mr-2"></i>  22/24 Salvation Road, Araromi, Oyo, Oyo State</span>
 		  						</p>
 		  					</div>
-		  					<p><a href="sermons.html" class="btn btn-primary">Read more</a></p>
+		  					<p><a href="#" class="btn btn-primary">Read more</a></p>
 	          	</div>
 	          	<div class="img"style="background-image: url(images/event-6.jpg);"></div>
 	          </div>

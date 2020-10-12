@@ -17,8 +17,8 @@
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-center" data-scrollax-parent="true">
           <div class="col-md-10 text-center ftco-animate" data-scrollax=" properties: { translateY: '70%' }">
           	<h1 class="mb-0" style="font-family:arial; font-weight:bold; line-height:70px"><span style=" margin-bottom:-60px;">Welcome</span> <br /><span style="color:#fff; background:#000; border-radius:50%; font-size: 10px;padding:5px; width:30px; text-align:center; margin:auto; line-height:25px;">TO</span><br /> <span style="margin-top:-85px; font-size:40px;"> Family of God Charismatic Ministries Worldwide (Inc.)</span></h1>
-          	<h3 class="subheading mb-4 pb-1">Where the Holy Spirit is real</h3>
-          	<p><a id="button" href="#" class="btn btn-primary py-3 px-4">New here!</a> <a id="button" href="https://solid9.streamupsolutions.com/proxy/jtwagjwn?mp=/;type=mp3"  target="_blank" class="btn btn-white py-3 px-4"><span class="icon-play-circle"></span> Live Stream</a></p>
+		  <h3 class="subheading mb-4 pb-1"> Where the Holy Spirit is real</h3>
+          	<p><a id="button" href="#" class="btn btn-primary py-3 px-4">Youtube</a> <a id="button" href="https://solid9.streamupsolutions.com/proxy/jtwagjwn?mp=/;type=mp3"  target="_blank" class="btn btn-white py-3 px-4"><span class="icon-play-circle"></span> Radio</a></p>
             <div class="mouse">
 							<a href="#" class="mouse-icon">
 								<div class="mouse-wheel mb"><span class="ion-ios-arrow-down"></span></div>
@@ -29,14 +29,14 @@
       </div>
     </div>
 
-    <section class="ftco-intro py-5" style="background-image: url(images/img/img6.jpg);">
+    <section class="ftco-intro py-5" style="background-image: url(images/convention.jpg); background-size:70%">
     	<div id="up" class="overlay"></div>
     	<div class="container">
     		<div class="row d-flex align-items-center">
     			<div class="col-md-6 ftco-animate">
     				<h2 class="subheading"><span class="icon-calendar"></span> Upcoming Events</h2>
-    				<h2><a href="#">"Atmosphere for Signs and Wonders" <br/>
-    				<b><!--NO MORE LIMITS--> 8:30am</b> <br/>&mdash; Bishop Gift Chuks Nnaji <br/> <span style="font-size:16px; margin-left:10px">Church Cathedral</span> </a></h2>
+    				<h2><a href="#">"Harvest Fire Int'l Convention" <br/>
+    				<b>DIVINE SETTLEMENT {{--8:30am--}}</b> <br/>&mdash; 4th - 8th Nov., 2020<br/> <span style="font-size:16px; margin-left:10px">Church Cathedral</span> </a></h2>
 						<p><a href="{{url('events/')}}" class="btn btn-primary px-4 py-2">View upcoming events</a></p>
     			</div>
     			<div id="up2" class="col-md-6 pl-md-5 ftco-animate">

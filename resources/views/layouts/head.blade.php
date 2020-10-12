@@ -84,5 +84,11 @@
                         margin-left:170px;
                 }
         }
+        @media only screen and (min-width: 500px){
+                #map{
+                        width:"570px" ;
+                        height:"560px";
+                }
+        }
 
 </style>

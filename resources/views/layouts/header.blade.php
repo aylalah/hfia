@@ -7,9 +7,10 @@
 			    </div>
 					<div class="col-9 d-flex align-items-center text-right">
 		      	<ul class="ftco-social mt-2 mr-3">
-		          <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-		          <li class="ftco-animate"><a href="https://web.facebook.com/HarvestFireAssembly" target="_blank"><span class="icon-facebook"></span></a></li>
-		          <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+					  <li class="ftco-animate"><a href="https://web.facebook.com/HarvestFireAssembly" target="_blank"><span class="icon-facebook"></span></a></li>
+		          <li class="ftco-animate"><a href="#"><span class="icon-youtube"></span></a></li>
+		          {{-- <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li> --}}
+				  {{-- <li class="ftco-animate"><a href="{{url('/adminLogin')}}"><span class="icon-power"></span></a></li> --}}
 		        </ul>
 
 			      <button class="navbar-toggler d-flex align-items-center" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
