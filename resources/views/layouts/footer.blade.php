@@ -8,9 +8,9 @@
               <h2 class="ftco-heading-2">HFIA</h2>
               <p> <img src="images/loc.png" style="height:25px; width:20px; margin-bottom:15px; margin-right:8px; color:white" /> 22/24 Salvation Road, Araromi, Oyo, Oyo State.</p>
               <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="#"><span class="icon-youtube"></span></a></li>
                 <li class="ftco-animate"><a href="https://web.facebook.com/HarvestFireAssembly"><span class="icon-facebook"></span></a></li>
-                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+                {{-- <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li> --}}
               </ul>
             </div>
           </div>

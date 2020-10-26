@@ -36,17 +36,17 @@
   					<div class="img" style="background-image: url(images/gallery/image_1.jpg);"></div>
   				</div>
   				<div class="col-md-6 py-4 text ftco-animate">
-  					<h2 class="mb-4"><a href="sermon.html">Wisdom for Sweatless Victories</a></h2>
+  					<h2 class="mb-4"><a href="sermon.html">Intimate wisdom for Divine Establishment</a></h2>
   					<div class="meta">
   						<p>
 	  						<span>Sermon from: <a href="#" class="ptr">Bishop Gift Chuks Nnaji</a></span>
 	  						<span>Categories: <a href="#">Teaching</a>, <a href="#">Pray</a></span>
-	  						<span><a href="#">On Sunday 16 Aug, 2020</a></span>
+	  						<span><a href="#">On Sunday 11th Oct, 2020</a></span>
   						</p>
   					</div>
-						<p>Wisdom is doing right what right thing you know to do at the right time. (Eccl 9:13-17, James 3:13, Eccl 2:12-13). No challenge remains the same being left alone. God</p>
+						<p>"DO WHATSOEVER HE SAYS" To receive whatsoever from God, you must be intimate with Him (Mark 3:14-17). Intimate wisdom is divine ability to do whatsoever He says and it comes by impartation.</p>
 						<p class="mt-4 btn-customize">
-							<a href="https://vimeo.com/45830194" class="btn btn-primary px-4 py-3 mr-md-2 popup-vimeo"><span class="icon-play"></span> Watch Sermons</a> <a href="http://testenv.fgcmw.org/doc/first.docx" class="btn btn-black px-4 py-3 ml-lg-2"><span class="icon-download"></span> Download Sermons</a>
+							<a href="https://vimeo.com/45830194" class="btn btn-primary px-4 py-3 mr-md-2 popup-vimeo"><span class="icon-play"></span> Watch Sermons</a> <a href="#" class="btn btn-black px-4 py-3 ml-lg-2"><span class="icon-download"></span> Download Sermons</a>
 						</p>
   				</div>
     		</div>
