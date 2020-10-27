@@ -17,7 +17,7 @@
         </ul>
         <div class="tab-content" id="myTabContent">
             <div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-              {{$contacts->location_address}}
+              {{$contacts->location_name}}
               <div class="card-content">
                     <div class="card-body my-gallery" itemscope itemtype="http://schema.org/ImageGallery">
                         <div class="row">
@@ -54,12 +54,11 @@
                                         <span aria-hidden="true">&times;</span>
                                       </button>
                                     </div>
-                                    <form action='contactcontroller' method='post'>
-                                      {{ @csrf_field() }}
+                                    <form>
                                       <div class="modal-body">
                                         <fieldset class="form-group floating-label-form-group">
                                           <label for="text">Change text</label>
-                                        <input type="text" class="form-control" id="text" name="name" value="{{$contacts->location_address}}" placeholder="Text">
+                                          <input type="text" class="form-control" id="text" placeholder="Text">
                                         </fieldset>
                                         <br>
                                         <fieldset class="form-group floating-label-form-group">
@@ -80,7 +79,7 @@
                                       </div>
                                       <div class="modal-footer">
                                         <button type="button" class="btn grey btn-outline-danger" data-dismiss="modal">Close</button>
-                                        <button type="submit" class="btn btn-outline-primary">Save changes</button>
+                                        <button type="button" class="btn btn-outline-primary">Save changes</button>
                                       </div>
                                     </form>
                                   </div>
@@ -111,8 +110,7 @@
                                       <span aria-hidden="true">&times;</span>
                                     </button>
                                   </div>
-                                  <form action='contactForm' method='post'>
-                                    {{ @csrf_field() }}
+                                  <form>
                                     <div class="modal-body">
                                       <fieldset class="form-group floating-label-form-group">
                                         <label for="">Change Word</label>
@@ -122,7 +120,7 @@
                                     </div>
                                     <div class="modal-footer">
                                       <button type="button" class="btn grey btn-outline-danger" data-dismiss="modal">Close</button>
-                                      <button type="submit" class="btn btn-outline-primary">Save changes</button>
+                                      <button type="button" class="btn btn-outline-primary">Save changes</button>
                                     </div>
                                   </form>
                                 </div>
@@ -136,16 +134,16 @@
                     <div class="col-8 m-auto">
                       <ul class="no-list-style">
                         <li class="mb-2">
-                            <span class="text-bold-500 primary"><a><i class="ft-globe font-small-3"></i></a> Address: <span class="d-block overflow-hidden"></span>{{$contacts->location_address}}</span>
+                            <span class="text-bold-500 primary"><a><i class="ft-globe font-small-3"></i></a> Address: <span class="d-block overflow-hidden"></span></span>
                           </li>
                         <li class="mb-2">
-                            <span class="text-bold-500 primary"><a><i class="ft-smartphone font-small-3"></i></a> Phone Number: <span class="d-block overflow-hidden"></span>{{$contacts->phone_number}}</span>
+                            <span class="text-bold-500 primary"><a><i class="ft-smartphone font-small-3"></i></a> Phone Number: <span class="d-block overflow-hidden"></span></span>
                           </li>
                         <li class="mb-2">
-                          <span class="text-bold-500 primary"><a><i class="ft-mail font-small-3"></i></a> Email: <span class="d-block overflow-hidden"></span>{{$contacts->email}}</span>
+                          <span class="text-bold-500 primary"><a><i class="ft-mail font-small-3"></i></a> Email: <span class="d-block overflow-hidden"></span></span>
                         </li>
                         <li class="mb-2">
-                          <span class="text-bold-500 primary"><a><i class="ft-monitor font-small-3"></i></a> Website: <span class="d-block overflow-hidden"></span>{{$contacts->facebook}}</span>
+                          <span class="text-bold-500 primary"><a><i class="ft-monitor font-small-3"></i></a> Website: <span class="d-block overflow-hidden"></span></span>
                         </li>
                       </ul>
                     </div>
@@ -167,29 +165,28 @@
                                       <span aria-hidden="true">&times;</span>
                                     </button>
                                   </div>
-                                  <form action='contactForm2' method='post'>
-                                    {{ @csrf_field() }}
+                                  <form>
                                     <div class="modal-body">
                                       <fieldset class="form-group floating-label-form-group">
                                         <label for="">Address</label>
-                                        <input type="text" class="form-control" name="address" id="word" value="{{$contacts->location_address}}" placeholder="">
+                                        <input type="text" class="form-control" id="word" placeholder="">
                                       </fieldset>
                                       <fieldset class="form-group floating-label-form-group">
                                         <label for="">Phone Number</label>
-                                        <input type="text" class="form-control" name="phone" id="word" value="{{$contacts->phone_number}}" placeholder="">
+                                        <input type="text" class="form-control" id="word" placeholder="">
                                       </fieldset>
                                       <fieldset class="form-group floating-label-form-group">
                                         <label for="">Email</label>
-                                        <input type="text" class="form-control" name="email" id="word" value="{{$contacts->email}}" placeholder="">
+                                        <input type="text" class="form-control" id="word" placeholder="">
                                       </fieldset>
                                       <fieldset class="form-group floating-label-form-group">
                                         <label for="">Website</label>
-                                        <input type="text" class="form-control" name="website" id="word" value="{{$contacts->facebook}}" placeholder="">
+                                        <input type="text" class="form-control" id="word" placeholder="">
                                       </fieldset>
                                     </div>
                                     <div class="modal-footer">
                                       <button type="button" class="btn grey btn-outline-danger" data-dismiss="modal">Close</button>
-                                      <button type="submit" class="btn btn-outline-primary">Save changes</button>
+                                      <button type="button" class="btn btn-outline-primary">Save changes</button>
                                     </div>
                                   </form>
                                 </div>
