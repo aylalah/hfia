@@ -1,34 +1,34 @@
 <!DOCTYPE html>
 <html lang="{{ str_replace('_', '-', app()->getLocale()) }}">
     <head>
-    <title>FGCMW</title>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-       
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        
-        <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i" rel="stylesheet">
 
-        <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
-        <link rel="stylesheet" href="css/animate.css">
-        
-        <link rel="stylesheet" href="css/owl.carousel.min.css">
-        <link rel="stylesheet" href="css/owl.theme.default.min.css">
-        <link rel="stylesheet" href="css/magnific-popup.css">
+        <title>FGCMW</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text:400,400i" rel="stylesheet">
 
-        <link rel="stylesheet" href="css/aos.css">
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
 
-        <link rel="stylesheet" href="css/ionicons.min.css">
+    <link rel="stylesheet" href="css/aos.css">
 
-        <link rel="stylesheet" href="css/bootstrap-datepicker.css">
-        <link rel="stylesheet" href="css/jquery.timepicker.css">
+    <link rel="stylesheet" href="css/ionicons.min.css">
 
-        
-        <link rel="stylesheet" href="css/flaticon.css">
-        <link rel="stylesheet" href="css/icomoon.css">
-        <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="css/jquery.timepicker.css">
+
+    
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
   </head>
     <body>
         <div class="flex-center position-ref full-height">
@@ -98,7 +98,7 @@
       </div>
     </div>
 
-    <section class="ftco-intro" style="background-image: url(images/bg_4.jpg);">
+    <section class="ftco-intro py-5" style="background-image: url(images/bg_4.jpg);">
     	<div class="overlay"></div>
     	<div class="container">
     		<div class="row d-flex align-items-center">
@@ -214,7 +214,7 @@
   					</div>
 						<p>A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
 						<p class="mt-4 btn-customize">
-							<a href="" class="btn btn-primary px-4 py-3 mr-md-2 popup-vimeo"><span class="icon-play"></span> Watch Sermons</a> <a href="#" class="btn btn-black px-4 py-3 ml-lg-2"><span class="icon-download"></span> Download Sermons</a>
+							<a href="https://vimeo.com/45830194" class="btn btn-primary px-4 py-3 mr-md-2 popup-vimeo"><span class="icon-play"></span> Watch Sermons</a> <a href="#" class="btn btn-black px-4 py-3 ml-lg-2"><span class="icon-download"></span> Download Sermons</a>
 						</p>
   				</div>
     		</div>
@@ -436,7 +436,7 @@
 			  						</p>
 			  					</div>
 									<p class="mt-4">
-										<a href="" class="btn-custom  p-2 text-center popup-vimeo"><span class="icon-play"></span> Watch Sermons</a>
+										<a href="https://vimeo.com/45830194" class="btn-custom  p-2 text-center popup-vimeo"><span class="icon-play"></span> Watch Sermons</a>
 									</p>
 									<p class="mt-4">
 										<a href="#" class="btn-custom  p-2 text-center"><span class="icon-download"></span> Download Sermons</a>
