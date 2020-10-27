@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Contact;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,6 +19,8 @@ Route::get('/', 'PagesController@index');
 //     return view('index');
 // });
 
+// Main Pages
+
 Route::get('/about', function () {
     return view('pages.about');
 });
@@ -27,7 +30,10 @@ Route::get('/events', function () {
 });
 
 Route::get('/contact', function () {
-    return view('pages.contact');
+    $contact = Contact::orderBy('id')->first();
+
+    // return view('admin-pages.contact')
+    return view('pages.contact')->with("contacts", $contact);
 });
 
 Route::get('/ministry', function () {
@@ -50,6 +56,8 @@ Route::get('/shop', function () {
     return view('pages.shop');
 });
 
+// Admin Pages
+
 Route::get('/adminLogin', function () {
     return view('admin-auth.login');
 });
@@ -62,11 +70,11 @@ Route::get('/adminRegister', function () {
 //     return view('admin-pages.dashboard');
 // });
 
+
 Route::get('/order', 'PagesController@order');
 Route::get('/admin', 'PagesController@admin');
 Route::get('/members', 'PagesController@members');
 Route::get('/account', 'PagesController@account');
-
 Route::get('/homepage', 'PagesController@homepage');
 Route::get('/adminAbout', 'PagesController@about');
 Route::get('/adminMinistry', 'PagesController@ministry');
@@ -75,6 +83,11 @@ Route::get('/adminEvent', 'PagesController@event');
 Route::get('/adminBlog', 'PagesController@blog');
 Route::get('/adminContact', 'PagesController@contact');
 Route::get('/adminShop', 'PagesController@shop');
+
+// Submit Forms
+Route::post('contactcontroller', 'ContactController@firstForm');
+Route::view('adminContact', 'admin-pages.contact');
+// Route::post('contactForm2', 'ContactController@contactForm');
 
 Auth::routes();
 

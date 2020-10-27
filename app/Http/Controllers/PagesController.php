@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\User;
 use App\Contact;
-use App\Auth;
+use Auth;
 
 
 
@@ -40,9 +40,24 @@ class PagesController extends Controller
         return view('admin-pages.blog');
     }
     public function contact(){
-        $contact = Contact::all();
+        // $contact = new Contact;
+        // $contact->location_name = "Harvest Fire International Assembly";
+        // $contact->location_address = "22/24 Salvation Road, Araromi, Oyo, Oyo State.";
+        // $contact->phone_number = "08035066892";
+        // $contact->email = "bishopgiftchuksn@yahoo.com";
+        // $contact->facebook = "https://web.facebook.com/HarvestFireAssembly";
+        // $contact->instagram = "IG";
+        // $contact->twitter = "Twitter";
+        // $contact->image = "images/bg_6.jpg";
+        // $contact->map = "map link";
+        // $contact->status = "True";
+        // $contact->updated_by = Auth::user()->name;
+        // $contact->created_by = Auth::user()->name;
+        // $contact->save();
 
-        return view('admin-pages.contact')->with("contacts", $contact[1]);
+        $contact = Contact::orderBy('id')->first();
+
+        return view('admin-pages.contact')->with("contacts", $contact);
     }
     public function shop(){
         return view('admin-pages.shop');
